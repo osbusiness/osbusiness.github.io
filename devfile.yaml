@@ -1,0 +1,53 @@
+metadata:
+  name: osbusiness
+projects:
+  - name: osbusiness
+    source:
+      location: 'https://github.com/osbusiness/osbusiness.github.io.git'
+      type: git
+      branch: master
+components:
+  - mountSources: true
+    endpoints:
+      - name: che-docs-web-server
+        port: 4000
+        attributes:
+          public: 'true'
+          protocol: http
+          path: /
+      - name: che-docs-livereload-server
+        port: 35729
+        attributes:
+          public: 'true'
+          protocol: http
+          path: /
+    memoryLimit: 1Gi
+    type: dockerimage
+    image: 'eclipse/che-docs:latest'
+    alias: jekyll-dev
+  - mountSources: true
+    memoryLimit: 64M
+    type: dockerimage
+    image: sunix/git-devtools
+    alias: git
+  - id: ms-vscode/vscode-github-pullrequest/latest
+    type: chePlugin
+apiVersion: 1.0.0
+commands:
+  - name: build
+    actions:
+      - workdir: /projects/osbusiness/
+        type: exec
+        command: jekyll build
+        component: jekyll-dev
+  - name: serve
+    actions:
+      - workdir: /projects/osbusiness/
+        type: exec
+        command: jekyll serve --incremental --livereload -H 0.0.0.0
+        component: jekyll-dev
+  - name: killall ruby
+    actions:
+      - type: exec
+        command: killall ruby
+        component: jekyll-dev
