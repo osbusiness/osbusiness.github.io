@@ -1,5 +1,5 @@
 metadata:
-  name: osbusiness
+  generateName: osbusiness-
 
 components:
   - mountSources: true
@@ -32,13 +32,13 @@ apiVersion: 1.0.0
 commands:
   - name: build
     actions:
-      - workdir: /projects/osbusiness/
+      - workdir: /projects/osbusiness.github.io/
         type: exec
         command: jekyll build
         component: jekyll-dev
   - name: serve
     actions:
-      - workdir: /projects/osbusiness/
+      - workdir: /projects/osbusiness.github.io/
         type: exec
         command: jekyll clean && jekyll serve --incremental --livereload -H 0.0.0.0
         component: jekyll-dev
