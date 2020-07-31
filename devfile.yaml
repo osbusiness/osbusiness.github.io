@@ -1,11 +1,6 @@
 metadata:
   name: osbusiness
-projects:
-  - name: osbusiness
-    source:
-      location: 'https://github.com/osbusiness/osbusiness.github.io.git'
-      type: git
-      branch: master
+
 components:
   - mountSources: true
     endpoints:
@@ -45,7 +40,7 @@ commands:
     actions:
       - workdir: /projects/osbusiness/
         type: exec
-        command: jekyll serve --incremental --livereload -H 0.0.0.0
+        command: jekyll clean && jekyll serve --incremental --livereload -H 0.0.0.0
         component: jekyll-dev
   - name: killall ruby
     actions:
