@@ -23,7 +23,8 @@ components:
           path: /
     memoryLimit: 1Gi
     type: dockerimage
-    image: 'eclipse/che-docs:latest'
+    args: ['tail', '-f', '/dev/null']
+    image: 'quay.io/eclipse/che-docs:latest'
     alias: jekyll-dev
   - mountSources: true
     memoryLimit: 64M
