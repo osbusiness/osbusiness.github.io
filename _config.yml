@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
-
+theme: jekyll-theme-cayman
+logo: /assets/images/logo.svg
 title: "osbusiness.github.io"
-description: "About the Open Source Business Summit"
+description: Connecting Open Source Developers and Businesses
