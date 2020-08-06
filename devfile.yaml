@@ -1,11 +1,6 @@
 metadata:
-  name: osbusiness
-projects:
-  - name: osbusiness
-    source:
-      location: 'https://github.com/osbusiness/osbusiness.github.io.git'
-      type: git
-      branch: master
+  generateName: osbusiness-
+
 components:
   - mountSources: true
     endpoints:
@@ -23,7 +18,8 @@ components:
           path: /
     memoryLimit: 1Gi
     type: dockerimage
-    image: 'eclipse/che-docs:latest'
+    args: ['tail', '-f', '/dev/null']
+    image: 'quay.io/eclipse/che-docs:latest'
     alias: jekyll-dev
   - mountSources: true
     memoryLimit: 64M
@@ -36,15 +32,15 @@ apiVersion: 1.0.0
 commands:
   - name: build
     actions:
-      - workdir: /projects/osbusiness/
+      - workdir: /projects/osbusiness.github.io/
         type: exec
         command: jekyll build
         component: jekyll-dev
   - name: serve
     actions:
-      - workdir: /projects/osbusiness/
+      - workdir: /projects/osbusiness.github.io/
         type: exec
-        command: jekyll serve --incremental --livereload -H 0.0.0.0
+        command: jekyll clean && jekyll serve --incremental --livereload -H 0.0.0.0
         component: jekyll-dev
   - name: killall ruby
     actions:

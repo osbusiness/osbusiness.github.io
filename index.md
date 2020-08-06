@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About the Open Source Business Summit
 ---
 
 # Virtual community event
