@@ -22,8 +22,49 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
+$nav-text-color: #cccccc;
+$nav-hover-color: lighten($nav-text-color, 50%);
+
 @import "{{ site.theme }}";
 
 #logo {
     max-width: 72%;
 }
+
+header.page-header {
+    padding-bottom: 0;
+}
+
+h2.project-tagline {
+    margin: 0;
+    padding: 1em;
+}
+
+// link colors
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+.wrapper {
+    nav {
+	background: rgba(black, 0.9);
+	ul.nav-menu {
+	    margin: 0;
+	    text-align: center;
+	    padding: 0.3em;
+	    li {
+		display: inline;
+		list-decoration: none;
+		font-size: 130%;
+		margin: 0 0.5em 0 0.5em;
+		#{$a-tags} {
+		    color: $nav-text-color;
+		    text-decoration: none;
+		}
+		#{$a-tags-hover} {
+		    color: $nav-hover-color;
+		}
+	    }
+	}
+    }
+}
+
