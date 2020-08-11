@@ -10,7 +10,7 @@ $header-bg-color-secondary: #2d2836;
 /* Text */
 $section-headings-color: #553f7e;
 $body-text-color: #606c71;
-$body-link-color: #3d3846;
+$body-link-color: #cc8800;
 $blockquote-text-color: #819198;
 
 /* Code */
@@ -22,8 +22,64 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
+$nav-text-color: #cccccc;
+$nav-hover-color: lighten($nav-text-color, 50%);
+
 @import "{{ site.theme }}";
 
 #logo {
     max-width: 72%;
+}
+
+header.page-header {
+    padding-bottom: 0;
+}
+
+h2.project-tagline {
+    margin: 0;
+    padding: 1em;
+}
+
+// link colors
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+.wrapper {
+    nav {
+	background: rgba(black, 0.9);
+	ul.nav-menu {
+	    margin: 0;
+	    text-align: center;
+	    padding: 0.3em;
+	    li {
+		display: inline;
+		list-decoration: none;
+		font-size: 130%;
+		margin: 0 0.5em 0 0.5em;
+		#{$a-tags} {
+		    color: $nav-text-color;
+		    text-decoration: none;
+		}
+		#{$a-tags-hover} {
+		    color: $nav-hover-color;
+		}
+	    }
+	}
+    }
+}
+
+footer {
+    text-align: center;
+    #{$a-tags} {
+	color: $body-link-color;
+	text-decoration: none;
+    }
+    #{$a-tags-hover} {
+	color: lighten($body-link-color, 50%);
+    }
+    img#twitter {
+	width: 1.4em;
+	vertical-align: top;
+	margin: 0 0.2em 0 0.2em;
+    }
 }
