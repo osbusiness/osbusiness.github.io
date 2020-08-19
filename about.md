@@ -15,8 +15,8 @@ Stay tuned for more details of the live talk schedule, including topics, speaker
 
 ## Program Committee
 
-Dave Neary
-Matt Asay
-Stephen Walli
-Deborah Bryant
-John Mark Walker
+* Dave Neary
+* Matt Asay
+* Stephen Walli
+* Deborah Bryant
+* John Mark Walker
