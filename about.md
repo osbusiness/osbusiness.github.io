@@ -18,5 +18,5 @@ Stay tuned for more details of the live talk schedule, including topics, speaker
 * Dave Neary
 * Matt Asay
 * Stephen Walli
-* Deborah Bryant
+* Leslie Hawthorn
 * John Mark Walker
