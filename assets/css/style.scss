@@ -28,8 +28,15 @@ $nav-hover-color: lighten($nav-text-color, 50%);
 @import "{{ site.theme }}";
 
 #logo {
-    max-width: 72%;
+    max-width: 832px;
 }
+
+@media (max-width: 1024px) {
+  #logo {
+    max-width: 100%;
+  }
+}
+
 
 header.page-header {
     padding-bottom: 0;
