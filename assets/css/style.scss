@@ -22,7 +22,8 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
-$nav-text-color: #cccccc;
+$nav-text-color: #aaaaaa;
+$nav-active-color: #ffffff;
 $nav-hover-color: lighten($nav-text-color, 50%);
 
 @import "{{ site.theme }}";
@@ -54,26 +55,31 @@ $a-tags-hover: 'a:active, a:hover';
 
 .wrapper {
     nav {
-	background: rgba(black, 1);
-	ul.nav-menu {
-	    margin: 0;
-	    text-align: center;
-	    padding: 0.3em;
-	    li {
-		display: inline;
-		list-decoration: none;
-		font-size: 130%;
-		font-weight: 600;
-		margin: 0 0.5em 0 0.5em;
-		#{$a-tags} {
-		    color: $nav-text-color;
-		    text-decoration: none;
-		}
-		#{$a-tags-hover} {
-		    color: $nav-hover-color;
-		}
-	    }
-	}
+        background: rgba(black, 1.0);
+        ul.nav-menu {
+            margin: 0;
+            text-align: center;
+            padding: 0.3em;
+            li {
+                display: inline;
+                list-decoration: none;
+                font-size: 130%;
+                font-weight: 600;
+                margin: 0 0.5em 0 0.5em;
+                #{$a-tags} {
+                    color: $nav-text-color;
+                    text-decoration: none;
+                }
+                #{$a-tags-hover} {
+                    color: $nav-hover-color;
+                }
+	        }
+    	    li.active {
+	    	    #{$a-tags} {
+                    color: $nav-active-color;
+                }
+            }
+        }
     }
 }
 
