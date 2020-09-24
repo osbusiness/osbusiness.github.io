@@ -6,8 +6,9 @@ title: Schedule
 # Schedule
 
 ## Episode 1: The Delicate Art of Open Source Product Management
-Time: September 29th, 2020, 4pm CEST/11am EDT/8am PDT
-Featuring: Adam Jacob, Scott McCarty
+
+**Time:** September 29th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speakers:** Adam Jacob, Scott McCarty
 
 Description: In this discussion, we will explore the delicate art of building a product
 offering based on an open source project. Adam Jacob, former CTO and founder of Chef,
@@ -18,8 +19,9 @@ a compelling value proposition for customers.
 [Register here](https://www.crowdcast.io/e/osbusiness1)
 
 ## Episode 2: Open Source and Convenience in the Era of Software as a Service
-Time: October 7th, 2020, 4pm CEST/11am EDT/8am PDT
-Featuring: Stephen O'Grady
+
+**Time:** October 7th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speaker:** Stephen O'Grady
 
 Description: Industry analyst Stephen O'Grady from Redmonk will lead a presentation and
 discussion on the way in which on-demand consumption of open source projects has changed
@@ -29,8 +31,9 @@ building a business around products based on open source projects.
 [Register here](https://www.crowdcast.io/e/osbusiness2)
 
 ## Episode 3: The Labor Economics of Open Source
-Time: October 13th, 2020, 4pm CEST/11am EDT/8am PDT/
-Featuring: Dirk Riehle
+
+**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speaker:** Dirk Riehle
 
 Description: Open source is changing how software is built and how money is made. Open
 source also defines a new developer career that is independent of the traditional career
