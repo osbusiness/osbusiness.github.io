@@ -5,9 +5,27 @@ title: Schedule
 
 # Schedule
 
+## Episode 3: The Labor Economics of Open Source
+
+**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speakers:** Dirk Riehle, Alyssa Wright
+
+Description: Open source is changing how software is built and how money is made. Open
+source also defines a new developer career that is independent of the traditional career
+within companies. Researcher Dirk Riehle and Alyssa Wright of the Open Collective will
+lead a discussion about this new career, and will argue that it creates economic value
+for some while it makes life harder for others. Suggesting that such a career is
+worthwhile, the talk then discusses key skills that a developer should possess or train
+in order to be successful in open source projects. We will also discuss how creators of
+successful open source can develop a plan to earn a living while working on their
+project. 
+
+[Register here](https://www.crowdcast.io/e/osbusiness3)
+
+# Past episodes
+
 ## Episode 1: The Delicate Art of Open Source Product Management
 
-**Time:** September 29th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speakers:** Adam Jacob, Scott McCarty
 
 Description: In this discussion, we will explore the delicate art of building a product
@@ -16,11 +34,10 @@ and Scott McCarty, product manager for OpenShift in Red Hat, will lead a discuss
 the trade-offs involved in community engagement and growth and building a product with
 a compelling value proposition for customers.
 
-[Register here](https://www.crowdcast.io/e/osbusiness1)
+[Available on demand](https://www.crowdcast.io/e/osbusiness1)
 
 ## Episode 2: Open Source and Convenience in the Era of Software as a Service
 
-**Time:** October 7th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speaker:** Stephen O'Grady
 
 Description: Industry analyst Stephen O'Grady from Redmonk will lead a presentation and
@@ -28,22 +45,7 @@ discussion on the way in which on-demand consumption of open source projects has
 the nature of how people adopt open source, and the consequences that has for companies
 building a business around products based on open source projects.
 
-[Register here](https://www.crowdcast.io/e/osbusiness2)
-
-## Episode 3: The Labor Economics of Open Source
-
-**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speaker:** Dirk Riehle
-
-Description: Open source is changing how software is built and how money is made. Open
-source also defines a new developer career that is independent of the traditional career
-within companies. Researcher Dirk Riehle will lead a discussion about this new career,
-and will argue that it creates economic value for some while it makes life harder for
-others. Suggesting that such a career is worthwhile, the talk then discusses key
-skills that a developer should possess or train in order to be successful in open
-source projects.
-
-[Register here](https://www.crowdcast.io/e/osbusiness3)
+[Available on demand](https://www.crowdcast.io/e/osbusiness2)
 
 # Future topics
 We are still in the process of building a world-class schedule of events for the Open Source in Business series. Topics we plan to explore include:
