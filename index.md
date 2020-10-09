@@ -16,7 +16,7 @@ Join us for interactive sessions and discussions that explore the inflection poi
 **Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speakers:** Dirk Riehle, Alyssa Wright
 
-escription: Open source is changing how software is built and how money is made. Open
+Description: Open source is changing how software is built and how money is made. Open
 source also defines a new developer career that is independent of the traditional career
 within companies. Researcher Dirk Riehle and Alyssa Wright of the Open Collective will
 lead a discussion about this new career, and will argue that it creates economic value
