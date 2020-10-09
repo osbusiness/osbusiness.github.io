@@ -11,7 +11,7 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## This Week's Episode: Open Source and Convenience in the Era of Software as a Service
+## This Week's Episode: The Labor Economics of Open Source
 
 **Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speakers:** Dirk Riehle, Alyssa Wright
