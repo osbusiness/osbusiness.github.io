@@ -22,6 +22,31 @@ project.
 
 [Register here](https://www.crowdcast.io/e/osbusiness3)
 
+## Episode 4: The Evolution of Open Source Non-Profits
+
+**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speakers:** Karen Sandler, Rich Bowen
+
+Description: Join Stephen Walli as he curates a discussion on the evolving role of
+the non-profits created around open source projects over the past 20 years. Our
+featured speakers are Karen Sandler, Executive Director of the Software Freedom
+Conservancy, and former Executive Director of the GNOME Foundation, and Rich Bowen,
+a long-serving board member of the Apache Software Foundation.
+
+[Register here](https://www.crowdcast.io/e/osbusiness4)
+
+## Episode 5: How Mozilla Changed the Internet
+
+**Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speaker:** John Lilly
+
+Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
+Lilly, on how an open source project which became independent of AOL in 2003
+managed to reintroduce competition into the browser market and modernize the
+Internet, while generating hundreds of millions of dollars in revenue.
+
+[Register here](https://www.crowdcast.io/e/osbusiness5)
+
 # Past episodes
 
 ## Episode 1: The Delicate Art of Open Source Product Management
