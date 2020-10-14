@@ -5,33 +5,16 @@ title: Schedule
 
 # Schedule
 
-## Episode 3: The Labor Economics of Open Source
-
-**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Dirk Riehle, Alyssa Wright
-
-Description: Open source is changing how software is built and how money is made. Open
-source also defines a new developer career that is independent of the traditional career
-within companies. Researcher Dirk Riehle and Alyssa Wright of the Open Collective will
-lead a discussion about this new career, and will argue that it creates economic value
-for some while it makes life harder for others. Suggesting that such a career is
-worthwhile, the talk then discusses key skills that a developer should possess or train
-in order to be successful in open source projects. We will also discuss how creators of
-successful open source can develop a plan to earn a living while working on their
-project. 
-
-[Register here](https://www.crowdcast.io/e/osbusiness3)
-
 ## Episode 4: The Evolution of Open Source Non-Profits
 
 **Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Karen Sandler, Rich Bowen
+**Featured speakers:** Karen Sandler, Myrle Krantz
 
 Description: Join Stephen Walli as he curates a discussion on the evolving role of
 the non-profits created around open source projects over the past 20 years. Our
 featured speakers are Karen Sandler, Executive Director of the Software Freedom
-Conservancy, and former Executive Director of the GNOME Foundation, and Rich Bowen,
-a long-serving board member of the Apache Software Foundation.
+Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
+board member and treasurer of the Apache Software Foundation.
 
 [Register here](https://www.crowdcast.io/e/osbusiness4)
 
@@ -71,6 +54,23 @@ the nature of how people adopt open source, and the consequences that has for co
 building a business around products based on open source projects.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness2)
+
+## Episode 3: The Labor Economics of Open Source
+
+**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speakers:** Dirk Riehle, Alyssa Wright
+
+Description: Open source is changing how software is built and how money is made. Open
+source also defines a new developer career that is independent of the traditional career
+within companies. Researcher Dirk Riehle and Alyssa Wright of the Open Collective will
+lead a discussion about this new career, and will argue that it creates economic value
+for some while it makes life harder for others. Suggesting that such a career is
+worthwhile, the talk then discusses key skills that a developer should possess or train
+in order to be successful in open source projects. We will also discuss how creators of
+successful open source can develop a plan to earn a living while working on their
+project. 
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness3)
 
 # Future topics
 We are still in the process of building a world-class schedule of events for the Open Source in Business series. Topics we plan to explore include:

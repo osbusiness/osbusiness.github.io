@@ -11,7 +11,21 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## This Week's Episode: The Labor Economics of Open Source
+## Next Episode: The Evolution of Open Source Non-Profits
+
+**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT
+**Featured speakers:** Karen Sandler, Myrle Krantz
+
+Description: Join Stephen Walli as he curates a discussion on the evolving role of
+the non-profits created around open source projects over the past 20 years. Our
+featured speakers are Karen Sandler, Executive Director of the Software Freedom
+Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
+board member and treasurer of the Apache Software Foundation.
+
+[Register here](https://www.crowdcast.io/e/osbusiness4)
+
+
+## Watch our Last Episode on demand: The Labor Economics of Open Source
 
 **Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speakers:** Dirk Riehle, Alyssa Wright
@@ -27,4 +41,7 @@ successful open source can develop a plan to earn a living while working on thei
 project.
 
 
-[Register here](https://www.crowdcast.io/e/osbusiness3)
+[Watch on demand here](https://www.crowdcast.io/e/osbusiness3)
+
+All of our past episodes are listed on [the event schedule page](schedule.html).
+
