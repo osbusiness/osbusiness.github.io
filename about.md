@@ -15,8 +15,16 @@ Stay tuned for more details of the live talk schedule, including topics, speaker
 
 ## Program Committee
 
-* Dave Neary
-* Matt Asay
-* Stephen Walli
-* Leslie Hawthorn
-* John Mark Walker
+* Dave Neary, Red Hat
+* Matt Asay, AWS
+* Stephen Walli, Microsoft
+* Leslie Hawthorn, Red Hat
+* John Mark Walker, Capital One
+
+## Disclosure/disclaimer
+
+The Open Source in Business Speaker Series events are offered at no cost for attendees, 
+and neither the speakers nor program committee members receive any compensation for
+their participation. The program committee members are collaborating as open source
+professionals with decades of collective experience in this area, and are not acting as
+representatives of their respective employers.
