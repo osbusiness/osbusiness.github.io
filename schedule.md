@@ -5,19 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 4: The Evolution of Open Source Non-Profits
-
-**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Karen Sandler, Myrle Krantz
-
-Description: Join Stephen Walli as he curates a discussion on the evolving role of
-the non-profits created around open source projects over the past 20 years. Our
-featured speakers are Karen Sandler, Executive Director of the Software Freedom
-Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
-board member and treasurer of the Apache Software Foundation.
-
-[Register here](https://www.crowdcast.io/e/osbusiness4)
-
 ## Episode 5: How Mozilla Changed the Internet
 
 **Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
@@ -71,6 +58,21 @@ successful open source can develop a plan to earn a living while working on thei
 project. 
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness3)
+
+## Episode 4: The Evolution of Open Source Non-Profits
+
+**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speakers:** Karen Sandler, Myrle Krantz
+**Featured host:** Stephen Walli
+
+Description: Join Stephen Walli as he curates a discussion on the evolving role of
+the non-profits created around open source projects over the past 20 years. Our
+featured speakers are Karen Sandler, Executive Director of the Software Freedom
+Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
+board member and treasurer of the Apache Software Foundation.
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness4)
+
 
 # Future topics
 We are still in the process of building a world-class schedule of events for the Open Source in Business series. Topics we plan to explore include:

@@ -11,7 +11,19 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next Episode: The Evolution of Open Source Non-Profits
+## Next Episode: How Mozilla Changed the Internet
+
+**Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
+**Featured speaker:** John Lilly
+
+Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
+Lilly, on how an open source project which became independent of AOL in 2003
+managed to reintroduce competition into the browser market and modernize the
+Internet, while generating hundreds of millions of dollars in revenue.
+
+[Register here](https://www.crowdcast.io/e/osbusiness5)
+
+## Watch our Last Episode on demand: The Evolution of Open Source Non-Profits
 
 **Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT
 **Featured speakers:** Karen Sandler, Myrle Krantz
@@ -22,26 +34,9 @@ featured speakers are Karen Sandler, Executive Director of the Software Freedom
 Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
 board member and treasurer of the Apache Software Foundation.
 
-[Register here](https://www.crowdcast.io/e/osbusiness4)
+[Watch on demand here](https://www.crowdcast.io/e/osbusiness4)
 
 
-## Watch our Last Episode on demand: The Labor Economics of Open Source
-
-**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Dirk Riehle, Alyssa Wright
-
-Description: Open source is changing how software is built and how money is made. Open
-source also defines a new developer career that is independent of the traditional career
-within companies. Researcher Dirk Riehle and Alyssa Wright of the Open Collective will
-lead a discussion about this new career, and will argue that it creates economic value
-for some while it makes life harder for others. Suggesting that such a career is
-worthwhile, the talk then discusses key skills that a developer should possess or train
-in order to be successful in open source projects. We will also discuss how creators of
-successful open source can develop a plan to earn a living while working on their
-project.
-
-
-[Watch on demand here](https://www.crowdcast.io/e/osbusiness3)
-
-All of our past episodes are listed on [the event schedule page](schedule.html).
+All of our past episodes are listed on [the event schedule page](schedule.html), and 
+are also available on [our YouTube channel](https://www.youtube.com/channel/UCwBgcnITw43mboBSplHDRMQ).
 
