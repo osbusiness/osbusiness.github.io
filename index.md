@@ -11,7 +11,7 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## [Next Episode:](#next-episode) How Mozilla Changed the Internet
+## Next Episode: How Mozilla Changed the Internet
 
 **Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speaker:** John Lilly
@@ -23,7 +23,7 @@ Internet, while generating hundreds of millions of dollars in revenue.
 
 [Register here](https://www.crowdcast.io/e/osbusiness5)
 
-## [Watch our Last Episode on demand:](#last-episode) The Evolution of Open Source Non-Profits
+## Watch our Last Episode on demand: The Evolution of Open Source Non-Profits
 
 **Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT
 **Featured speakers:** Karen Sandler, Myrle Krantz
