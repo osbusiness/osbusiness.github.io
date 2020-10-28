@@ -11,7 +11,32 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next Episode: How Mozilla Changed the Internet
+## Next Episode: Bootstrapping a Self-funded Open Source Company
+
+**Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
+**Featured speakers:** Alison Gianotto, Roberto Galoppini
+
+One common path for open source businesses is to start with a small number of
+individual contributors, and self-fund the company. This week, Dave Neary will
+explore this theme with two people who have taken different paths to starting a
+business around an open source project, Alison Gianotto and Roberto Galoppini.
+
+Alison Gianotto founded Grokability in 2015. The company is self-funded, and
+its main product is a SaaS solution based on the open source project Snipe-IT,
+developed by Alison.
+
+After a career at Sourceforge.net, Roberto Galoppini started his own company
+to help popular open source projects including Filezilla to create a
+sustainable revenue model.
+
+We will talk about the challenges of moving from an individual contributor to
+a CEO role, growing a company organically and reaching profitability as
+quickly as possible, and the revenue streams that are available to projects
+in different stages of their life, and in different market segments.
+
+[Register here](https://www.crowdcast.io/e/osbusiness6)
+
+## Watch out Last Episode on demand: How Mozilla Changed the Internet
 
 **Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
 **Featured speaker:** John Lilly
@@ -21,20 +46,7 @@ Lilly, on how an open source project which became independent of AOL in 2003
 managed to reintroduce competition into the browser market and modernize the
 Internet, while generating hundreds of millions of dollars in revenue.
 
-[Register here](https://www.crowdcast.io/e/osbusiness5)
-
-## Watch our Last Episode on demand: The Evolution of Open Source Non-Profits
-
-**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT
-**Featured speakers:** Karen Sandler, Myrle Krantz
-
-Description: Join Stephen Walli as he curates a discussion on the evolving role of
-the non-profits created around open source projects over the past 20 years. Our
-featured speakers are Karen Sandler, Executive Director of the Software Freedom
-Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
-board member and treasurer of the Apache Software Foundation.
-
-[Watch on demand here](https://www.crowdcast.io/e/osbusiness4)
+[Watch on demand here](https://www.crowdcast.io/e/osbusiness5)
 
 
 All of our past episodes are listed on [the event schedule page](schedule.html), and 

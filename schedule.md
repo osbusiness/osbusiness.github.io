@@ -5,18 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 5: How Mozilla Changed the Internet
-
-**Time:** October 27th, 2020, 5pm CET/11am EDT/8am PDT  
-**Featured speaker:** John Lilly
-
-Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
-Lilly, on how an open source project which became independent of AOL in 2003
-managed to reintroduce competition into the browser market and modernize the
-Internet, while generating hundreds of millions of dollars in revenue.
-
-[Register here](https://www.crowdcast.io/e/osbusiness5)
-
 ## Episode 6: Bootstrapping a Self-funded Open Source Company
 
 **Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
@@ -97,6 +85,18 @@ Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Kr
 board member and treasurer of the Apache Software Foundation.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness4)
+
+## Episode 5: How Mozilla Changed the Internet
+
+**Time:** October 27th, 2020, 5pm CET/11am EDT/8am PDT  
+**Featured speaker:** John Lilly
+
+Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
+Lilly, on how an open source project which became independent of AOL in 2003
+managed to reintroduce competition into the browser market and modernize the
+Internet, while generating hundreds of millions of dollars in revenue.
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness5)
 
 
 # Future topics
