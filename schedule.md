@@ -30,6 +30,20 @@ in different stages of their life, and in different market segments.
 
 [Register here](https://www.crowdcast.io/e/osbusiness6)
 
+## Episode 7: Consulting on Open Source Strategy
+
+**Time:** November 10th, 2020, 5pm CET/noon EST/9am PST  
+**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile
+**Featured host:** Leslie Hawthorn
+
+Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
+Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
+of providing consulting services on open source. What types of companies are
+their clients? How do they identify potential projects, and in what ways can
+a consultant help improve the condition of their clients in open source? And
+in a world where so much information is out there for free, how do you ensure
+that you get paid?
+
 # Past episodes
 
 ## Episode 1: The Delicate Art of Open Source Product Management
