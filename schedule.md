@@ -8,7 +8,7 @@ title: Schedule
 ## Episode 6: Bootstrapping a Self-funded Open Source Company
 
 **Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
-**Featured speakers:** Alison Gianotto, Roberto Galoppini
+**Featured speakers:** Alison Gianotto, Roberto Galoppini  
 
 One common path for open source businesses is to start with a small number of
 individual contributors, and self-fund the company. This week, Dave Neary will
@@ -32,9 +32,9 @@ in different stages of their life, and in different market segments.
 
 ## Episode 7: Consulting on Open Source Strategy
 
-**Time:** November 10th, 2020, 5pm CET/noon EST/9am PST  
-**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile
-**Featured host:** Leslie Hawthorn
+**Time:** November 10th, 2020, 5pm CET/noon EST/9am PST   
+**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
+**Featured host:** Leslie Hawthorn  
 
 Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
 Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
@@ -49,8 +49,8 @@ that you get paid?
 ## Episode 8: The Reinvention of the Eclipse Foundation
 
 **Time:** November 17th, 2020, 5pm CET/11am EST/8am PST  
-**Featured speaker:** Mike Milinkovich
-**Featured host:** Stephen Walli
+**Featured speaker:** Mike Milinkovich  
+**Featured host:** Stephen Walli  
 
 The Eclipse Project was originally released in 2001, and led to the
 creation of the Eclipse Foundation in 2004. Over the course of its
@@ -71,9 +71,9 @@ Europe now, and where he sees the Foundation going in the future.
 
 ## Episode 9: Why I won't start a company around Envoy
 
-**Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST 
-**Featured speaker:** Matt Klein
-**Featured host:** Matt Asay
+**Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST  
+**Featured speaker:** Matt Klein  
+**Featured host:** Matt Asay  
 
 Many successful open source projects are created internally to
 solve problems for a large company. Of these successful projects,
@@ -98,7 +98,7 @@ project.
 
 ## Episode 1: The Delicate Art of Open Source Product Management
 
-**Featured speakers:** Adam Jacob, Scott McCarty
+**Featured speakers:** Adam Jacob, Scott McCarty  
 
 Description: In this discussion, we will explore the delicate art of building a product
 offering based on an open source project. Adam Jacob, former CTO and founder of Chef,
@@ -110,7 +110,7 @@ a compelling value proposition for customers.
 
 ## Episode 2: Open Source and Convenience in the Era of Software as a Service
 
-**Featured speaker:** Stephen O'Grady
+**Featured speaker:** Stephen O'Grady  
 
 Description: Industry analyst Stephen O'Grady from Redmonk will lead a presentation and
 discussion on the way in which on-demand consumption of open source projects has changed
@@ -121,8 +121,7 @@ building a business around products based on open source projects.
 
 ## Episode 3: The Labor Economics of Open Source
 
-**Time:** October 13th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Dirk Riehle, Alyssa Wright
+**Featured speakers:** Dirk Riehle, Alyssa Wright  
 
 Description: Open source is changing how software is built and how money is made. Open
 source also defines a new developer career that is independent of the traditional career
@@ -138,9 +137,8 @@ project.
 
 ## Episode 4: The Evolution of Open Source Non-Profits
 
-**Time:** October 20th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speakers:** Karen Sandler, Myrle Krantz
-**Featured host:** Stephen Walli
+**Featured speakers:** Karen Sandler, Myrle Krantz  
+**Featured host:** Stephen Walli  
 
 Description: Join Stephen Walli as he curates a discussion on the evolving role of
 the non-profits created around open source projects over the past 20 years. Our
@@ -152,8 +150,7 @@ board member and treasurer of the Apache Software Foundation.
 
 ## Episode 5: How Mozilla Changed the Internet
 
-**Time:** October 27th, 2020, 5pm CET/11am EDT/8am PDT  
-**Featured speaker:** John Lilly
+**Featured speaker:** John Lilly  
 
 Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
 Lilly, on how an open source project which became independent of AOL in 2003
