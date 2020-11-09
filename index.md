@@ -11,7 +11,23 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next Episode: Bootstrapping a Self-funded Open Source Company
+## Next Episode: Consulting on Open Source Strategy
+
+**Time:** November 10th, 2020, 5pm CET/noon EST/9am PST   
+**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
+**Featured host:** Leslie Hawthorn  
+
+Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
+Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
+of providing consulting services on open source. What types of companies are
+their clients? How do they identify potential projects, and in what ways can
+a consultant help improve the condition of their clients in open source? And
+in a world where so much information is out there for free, how do you ensure
+that you get paid?
+
+[Register here](https://www.crowdcast.io/e/osbusiness7)
+
+## Watch out Last Episode on demand: Bootstrapping a Self-funded Open Source Company
 
 **Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
 **Featured speakers:** Alison Gianotto, Roberto Galoppini
@@ -34,19 +50,7 @@ a CEO role, growing a company organically and reaching profitability as
 quickly as possible, and the revenue streams that are available to projects
 in different stages of their life, and in different market segments.
 
-[Register here](https://www.crowdcast.io/e/osbusiness6)
-
-## Watch out Last Episode on demand: How Mozilla Changed the Internet
-
-**Time:** October 27th, 2020, 4pm CEST/11am EDT/8am PDT  
-**Featured speaker:** John Lilly
-
-Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
-Lilly, on how an open source project which became independent of AOL in 2003
-managed to reintroduce competition into the browser market and modernize the
-Internet, while generating hundreds of millions of dollars in revenue.
-
-[Watch on demand here](https://www.crowdcast.io/e/osbusiness5)
+[Watch onm demand here](https://www.crowdcast.io/e/osbusiness6)
 
 
 All of our past episodes are listed on [the event schedule page](schedule.html), and 

@@ -5,31 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 6: Bootstrapping a Self-funded Open Source Company
-
-**Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
-**Featured speakers:** Alison Gianotto, Roberto Galoppini  
-
-One common path for open source businesses is to start with a small number of
-individual contributors, and self-fund the company. This week, Dave Neary will
-explore this theme with two people who have taken different paths to starting a
-business around an open source project, Alison Gianotto and Roberto Galoppini.
-
-Alison Gianotto founded Grokability in 2015. The company is self-funded, and
-its main product is a SaaS solution based on the open source project Snipe-IT,
-developed by Alison.
-
-After a career at Sourceforge.net, Roberto Galoppini started his own company
-to help popular open source projects including Filezilla to create a
-sustainable revenue model.
-
-We will talk about the challenges of moving from an individual contributor to
-a CEO role, growing a company organically and reaching profitability as
-quickly as possible, and the revenue streams that are available to projects
-in different stages of their life, and in different market segments.
-
-[Register here](https://www.crowdcast.io/e/osbusiness6)
-
 ## Episode 7: Consulting on Open Source Strategy
 
 **Time:** November 10th, 2020, 5pm CET/noon EST/9am PST   
@@ -158,6 +133,30 @@ managed to reintroduce competition into the browser market and modernize the
 Internet, while generating hundreds of millions of dollars in revenue.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness5)
+
+## Episode 6: Bootstrapping a Self-funded Open Source Company
+
+**Featured speakers:** Alison Gianotto, Roberto Galoppini  
+
+One common path for open source businesses is to start with a small number of
+individual contributors, and self-fund the company. This week, Dave Neary will
+explore this theme with two people who have taken different paths to starting a
+business around an open source project, Alison Gianotto and Roberto Galoppini.
+
+Alison Gianotto founded Grokability in 2015. The company is self-funded, and
+its main product is a SaaS solution based on the open source project Snipe-IT,
+developed by Alison.
+
+After a career at Sourceforge.net, Roberto Galoppini started his own company
+to help popular open source projects including Filezilla to create a
+sustainable revenue model.
+
+We will talk about the challenges of moving from an individual contributor to
+a CEO role, growing a company organically and reaching profitability as
+quickly as possible, and the revenue streams that are available to projects
+in different stages of their life, and in different market segments.
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness6)
 
 
 # Future topics
