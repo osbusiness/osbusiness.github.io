@@ -5,22 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 7: Consulting on Open Source Strategy
-
-**Time:** November 10th, 2020, 5pm CET/noon EST/9am PST   
-**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
-**Featured host:** Leslie Hawthorn  
-
-Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
-Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
-of providing consulting services on open source. What types of companies are
-their clients? How do they identify potential projects, and in what ways can
-a consultant help improve the condition of their clients in open source? And
-in a world where so much information is out there for free, how do you ensure
-that you get paid?
-
-[Register here](https://www.crowdcast.io/e/osbusiness7)
-
 ## Episode 8: The Reinvention of the Eclipse Foundation
 
 **Time:** November 17th, 2020, 5pm CET/11am EST/8am PST  
@@ -63,11 +47,25 @@ sourced in 2016, it has had huge influence and traction,
 including being adopted by the service mesh platform Istio.
 
 In this episode, Matt will chat with guest host Matt Asay about
-some of the reasons why he has chosen not to strike out on his
-own and attempt to create a service mesh business around his
-project. 
+some of the reasons why [he has chosen not to strike out on his
+own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
+and attempt to create a service mesh business around his project. 
 
 [Register here](https://www.crowdcast.io/e/osbusiness9)
+
+## Episode 10: Why I won't start a company around Envoy
+
+**Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
+**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
+
+This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
+Gibb of the Open Source Hardware Association, and Jason Kridner,
+co-founder of the BeagleBoard.org project. We will discuss the
+role that open source software development has played in enabling
+an open hardware community to develop, and the role that open
+source software plays in the economics of open hardware companies. 
+
+[Register here](https://www.crowdcast.io/e/osbusiness10)
 
 # Past episodes
 
@@ -157,6 +155,21 @@ quickly as possible, and the revenue streams that are available to projects
 in different stages of their life, and in different market segments.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness6)
+
+## Episode 7: Consulting on Open Source Strategy
+
+**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
+**Featured host:** Leslie Hawthorn  
+
+Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
+Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
+of providing consulting services on open source. What types of companies are
+their clients? How do they identify potential projects, and in what ways can
+a consultant help improve the condition of their clients in open source? And
+in a world where so much information is out there for free, how do you ensure
+that you get paid?
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness7)
 
 
 # Future topics

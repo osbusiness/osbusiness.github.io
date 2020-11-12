@@ -11,7 +11,30 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next Episode: Consulting on Open Source Strategy
+## Next Episode: The Reinvention of the Eclipse Foundation
+
+**Time:** November 17th, 2020, 5pm CET/11am EST/8am PST  
+**Featured speaker:** Mike Milinkovich  
+**Featured host:** Stephen Walli  
+
+The Eclipse Project was originally released in 2001, and led to the
+creation of the Eclipse Foundation in 2004. Over the course of its
+history, the Foundation has broadened its scope beyond the original
+Eclipse IDE to include a broad range of developer tools, working
+groups, and  now hosts over 350 open source projects. It has also
+been successful in attracting a diverse set of member companies and
+individuals.
+
+The Foundation leadership announced in May 2020 that it planned to
+become a Belgian non-profit, moving its home from the US to Europe.
+In this episode, the Eclipse Foundation Mike Milinkovich will join
+guest host Stephen Walli to discuss the historical and evolving
+role of the Eclipse Foundation, the motivations for moving to
+Europe now, and where he sees the Foundation going in the future.
+
+[Register here](https://www.crowdcast.io/e/osbusiness8)
+
+## Watch our last episode on demand: Consulting on Open Source Strategy
 
 **Time:** November 10th, 2020, 5pm CET/noon EST/9am PST   
 **Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
@@ -25,32 +48,7 @@ a consultant help improve the condition of their clients in open source? And
 in a world where so much information is out there for free, how do you ensure
 that you get paid?
 
-[Register here](https://www.crowdcast.io/e/osbusiness7)
-
-## Watch out Last Episode on demand: Bootstrapping a Self-funded Open Source Company
-
-**Time:** November 3rd, 2020, 4pm CET/11am EST/8am PST  
-**Featured speakers:** Alison Gianotto, Roberto Galoppini
-
-One common path for open source businesses is to start with a small number of
-individual contributors, and self-fund the company. This week, Dave Neary will
-explore this theme with two people who have taken different paths to starting a
-business around an open source project, Alison Gianotto and Roberto Galoppini.
-
-Alison Gianotto founded Grokability in 2015. The company is self-funded, and
-its main product is a SaaS solution based on the open source project Snipe-IT,
-developed by Alison.
-
-After a career at Sourceforge.net, Roberto Galoppini started his own company
-to help popular open source projects including Filezilla to create a
-sustainable revenue model.
-
-We will talk about the challenges of moving from an individual contributor to
-a CEO role, growing a company organically and reaching profitability as
-quickly as possible, and the revenue streams that are available to projects
-in different stages of their life, and in different market segments.
-
-[Watch onm demand here](https://www.crowdcast.io/e/osbusiness6)
+[Watch on demand here](https://www.crowdcast.io/e/osbusiness7)
 
 
 All of our past episodes are listed on [the event schedule page](schedule.html), and 
