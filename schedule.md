@@ -53,7 +53,7 @@ and attempt to create a service mesh business around his project.
 
 [Register here](https://www.crowdcast.io/e/osbusiness9)
 
-## Episode 10: Why I won't start a company around Envoy
+## Episode 10: Open Source Hardware
 
 **Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
 **Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
