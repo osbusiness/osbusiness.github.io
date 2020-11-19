@@ -5,29 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 8: The Reinvention of the Eclipse Foundation
-
-**Time:** November 17th, 2020, 5pm CET/11am EST/8am PST  
-**Featured speaker:** Mike Milinkovich  
-**Featured host:** Stephen Walli  
-
-The Eclipse Project was originally released in 2001, and led to the
-creation of the Eclipse Foundation in 2004. Over the course of its
-history, the Foundation has broadened its scope beyond the original
-Eclipse IDE to include a broad range of developer tools, working
-groups, and  now hosts over 350 open source projects. It has also
-been successful in attracting a diverse set of member companies and
-individuals.
-
-The Foundation leadership announced in May 2020 that it planned to
-become a Belgian non-profit, moving its home from the US to Europe.
-In this episode, the Eclipse Foundation Mike Milinkovich will join
-guest host Stephen Walli to discuss the historical and evolving
-role of the Eclipse Foundation, the motivations for moving to
-Europe now, and where he sees the Foundation going in the future.
-
-[Register here](https://www.crowdcast.io/e/osbusiness8)
-
 ## Episode 9: Why I won't start a company around Envoy
 
 **Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST  
@@ -170,6 +147,28 @@ in a world where so much information is out there for free, how do you ensure
 that you get paid?
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness7)
+
+## Episode 8: The Reinvention of the Eclipse Foundation
+
+**Featured speaker:** Mike Milinkovich  
+**Featured host:** Stephen Walli  
+
+The Eclipse Project was originally released in 2001, and led to the
+creation of the Eclipse Foundation in 2004. Over the course of its
+history, the Foundation has broadened its scope beyond the original
+Eclipse IDE to include a broad range of developer tools, working
+groups, and  now hosts over 350 open source projects. It has also
+been successful in attracting a diverse set of member companies and
+individuals.
+
+The Foundation leadership announced in May 2020 that it planned to
+become a Belgian non-profit, moving its home from the US to Europe.
+In this episode, the Eclipse Foundation Mike Milinkovich will join
+guest host Stephen Walli to discuss the historical and evolving
+role of the Eclipse Foundation, the motivations for moving to
+Europe now, and where he sees the Foundation going in the future.
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness8)
 
 
 # Future topics
