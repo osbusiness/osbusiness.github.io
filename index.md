@@ -11,7 +11,29 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next episode: Why I won't start a company around Envoy
+## Next episode: Open Source Hardware
+
+**Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
+**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
+**Host:** Dave Neary
+
+We are rounding out our first season of Open Source in Business
+with a discussion of a business model that depends on open source,
+but does not involve the sale of software: Open Hardware companies.
+
+This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
+Gibb of the Open Source Hardware Association, and Jason Kridner,
+co-founder of the BeagleBoard.org project. We will discuss the
+role that open source software development has played in enabling
+an open hardware community to develop, and the role that open
+source software plays in the economics of open hardware companies. 
+
+This episode is our last episode of season 1! We will return with
+a second season in the Spring.
+
+[Register here](https://www.crowdcast.io/e/osbusiness10)
+
+## Watch our last episode on demand: Why I won't start a company around Envoy
 
 **Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST  
 **Featured speaker:** Matt Klein  
@@ -39,30 +61,7 @@ some of the reasons why [he has chosen not to strike out on his
 own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
 and attempt to create a service mesh business around his project. 
 
-[Register here](https://www.crowdcast.io/e/osbusiness9)
-
-## Watch our last episode on demand: The Reinvention of the Eclipse Foundation
-
-**Time:** November 17th, 2020, 5pm CET/11am EST/8am PST  
-**Featured speaker:** Mike Milinkovich  
-**Featured host:** Stephen Walli  
-
-The Eclipse Project was originally released in 2001, and led to the
-creation of the Eclipse Foundation in 2004. Over the course of its
-history, the Foundation has broadened its scope beyond the original
-Eclipse IDE to include a broad range of developer tools, working
-groups, and  now hosts over 350 open source projects. It has also
-been successful in attracting a diverse set of member companies and
-individuals.
-
-The Foundation leadership announced in May 2020 that it planned to
-become a Belgian non-profit, moving its home from the US to Europe.
-In this episode, the Eclipse Foundation Mike Milinkovich will join
-guest host Stephen Walli to discuss the historical and evolving
-role of the Eclipse Foundation, the motivations for moving to
-Europe now, and where he sees the Foundation going in the future.
-
-[Watch on demand here](https://www.crowdcast.io/e/osbusiness8)
+[Watch on demand here](https://www.crowdcast.io/e/osbusiness9)
 
 
 All of our past episodes are listed on [the event schedule page](schedule.html), and 

@@ -5,31 +5,6 @@ title: Schedule
 
 # Schedule
 
-## Episode 9: Why I won't start a company around Envoy
-
-**Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST  
-**Featured speaker:** Matt Klein  
-**Featured host:** Matt Asay  
-
-Many successful open source projects are created internally to
-solve problems for a large company. Of these successful projects,
-several project founders decide to start companies around the
-commercialization of the project. But there are also project
-founders who consciously decide not to go that route. 
-
-Matt Klein, a software engineer with Lyft, wrote Envoy to scratch
-a proverbial itch, to solve some of the problems of running
-scalable distributed applications. After the project was open
-sourced in 2016, it has had huge influence and traction,
-including being adopted by the service mesh platform Istio.
-
-In this episode, Matt will chat with guest host Matt Asay about
-some of the reasons why [he has chosen not to strike out on his
-own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
-and attempt to create a service mesh business around his project. 
-
-[Register here](https://www.crowdcast.io/e/osbusiness9)
-
 ## Episode 10: Open Source Hardware
 
 **Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
@@ -41,6 +16,9 @@ co-founder of the BeagleBoard.org project. We will discuss the
 role that open source software development has played in enabling
 an open hardware community to develop, and the role that open
 source software plays in the economics of open hardware companies. 
+
+This episode is our last episode of season 1! We will return with
+a second season in the Spring.
 
 [Register here](https://www.crowdcast.io/e/osbusiness10)
 
@@ -169,6 +147,30 @@ role of the Eclipse Foundation, the motivations for moving to
 Europe now, and where he sees the Foundation going in the future.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness8)
+
+## Episode 9: Why I won't start a company around Envoy
+
+**Featured speaker:** Matt Klein  
+**Featured host:** Matt Asay  
+
+Many successful open source projects are created internally to
+solve problems for a large company. Of these successful projects,
+several project founders decide to start companies around the
+commercialization of the project. But there are also project
+founders who consciously decide not to go that route. 
+
+Matt Klein, a software engineer with Lyft, wrote Envoy to scratch
+a proverbial itch, to solve some of the problems of running
+scalable distributed applications. After the project was open
+sourced in 2016, it has had huge influence and traction,
+including being adopted by the service mesh platform Istio.
+
+In this episode, Matt will chat with guest host Matt Asay about
+some of the reasons why [he has chosen not to strike out on his
+own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
+and attempt to create a service mesh business around his project. 
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness9)
 
 
 # Future topics
