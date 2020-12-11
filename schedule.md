@@ -17,7 +17,8 @@ and Scott McCarty, product manager for OpenShift in Red Hat, will lead a discuss
 the trade-offs involved in community engagement and growth and building a product with
 a compelling value proposition for customers.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness1)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness1) --->
+{% include youtubeplayer.html id="E0KFpXgAnlA" %}
 
 ## Episode 2: Open Source and Convenience in the Era of Software as a Service
 
