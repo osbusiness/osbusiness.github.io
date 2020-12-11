@@ -3,26 +3,9 @@ layout: default
 title: Schedule
 ---
 
-# Schedule
+Season 2 is coming in Spring 2021!
 
-## Episode 10: Open Source Hardware
-
-**Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
-**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
-
-This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
-Gibb of the Open Source Hardware Association, and Jason Kridner,
-co-founder of the BeagleBoard.org project. We will discuss the
-role that open source software development has played in enabling
-an open hardware community to develop, and the role that open
-source software plays in the economics of open hardware companies. 
-
-This episode is our last episode of season 1! We will return with
-a second season in the Spring.
-
-[Register here](https://www.crowdcast.io/e/osbusiness10)
-
-# Past episodes
+# Season 1: Fall 2020
 
 ## Episode 1: The Delicate Art of Open Source Product Management
 
@@ -172,6 +155,21 @@ and attempt to create a service mesh business around his project.
 
 [Available on demand](https://www.crowdcast.io/e/osbusiness9)
 
+## Episode 10: Open Source Hardware
+
+**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
+
+This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
+Gibb of the Open Source Hardware Association, and Jason Kridner,
+co-founder of the BeagleBoard.org project. We will discuss the
+role that open source software development has played in enabling
+an open hardware community to develop, and the role that open
+source software plays in the economics of open hardware companies. 
+
+This episode is our last episode of season 1! We will return with
+a second season in the Spring.
+
+[Available on demand](https://www.crowdcast.io/e/osbusiness10)
 
 # Future topics
 We are still in the process of building a world-class schedule of events for the Open Source in Business series. Topics we plan to explore include:
