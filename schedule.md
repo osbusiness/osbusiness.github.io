@@ -11,6 +11,8 @@ Season 2 is coming in Spring 2021!
 
 **Featured speakers:** Adam Jacob, Scott McCarty  
 
+{% include youtubeplayer.html id="E0KFpXgAnlA" %}
+
 Description: In this discussion, we will explore the delicate art of building a product
 offering based on an open source project. Adam Jacob, former CTO and founder of Chef,
 and Scott McCarty, product manager for OpenShift in Red Hat, will lead a discussion on
@@ -18,22 +20,25 @@ the trade-offs involved in community engagement and growth and building a produc
 a compelling value proposition for customers.
 
 <!--- [Available on demand](https://www.crowdcast.io/e/osbusiness1) --->
-{% include youtubeplayer.html id="E0KFpXgAnlA" %}
 
 ## Episode 2: Open Source and Convenience in the Era of Software as a Service
 
 **Featured speaker:** Stephen O'Grady  
+
+{% include youtubeplayer.html id="xxDMqbe9Z2w" %}
 
 Description: Industry analyst Stephen O'Grady from Redmonk will lead a presentation and
 discussion on the way in which on-demand consumption of open source projects has changed
 the nature of how people adopt open source, and the consequences that has for companies
 building a business around products based on open source projects.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness2)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness2) --->
 
 ## Episode 3: The Labor Economics of Open Source
 
 **Featured speakers:** Dirk Riehle, Alyssa Wright  
+
+{% include youtubeplayer.html id="8MFaBVOfQ7c" %}
 
 Description: Open source is changing how software is built and how money is made. Open
 source also defines a new developer career that is independent of the traditional career
@@ -45,12 +50,14 @@ in order to be successful in open source projects. We will also discuss how crea
 successful open source can develop a plan to earn a living while working on their
 project. 
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness3)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness3) --->
 
 ## Episode 4: The Evolution of Open Source Non-Profits
 
 **Featured speakers:** Karen Sandler, Myrle Krantz  
 **Featured host:** Stephen Walli  
+
+{% include youtubeplayer.html id="Asp_Umm0N9o" %}
 
 Description: Join Stephen Walli as he curates a discussion on the evolving role of
 the non-profits created around open source projects over the past 20 years. Our
@@ -58,22 +65,26 @@ featured speakers are Karen Sandler, Executive Director of the Software Freedom
 Conservancy, and former Executive Director of the GNOME Foundation, and Myrle Krantz,
 board member and treasurer of the Apache Software Foundation.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness4)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness4) --->
 
 ## Episode 5: How Mozilla Changed the Internet
 
 **Featured speaker:** John Lilly  
+
+{% include youtubeplayer.html id="QpwGnuDnSqM" %}
 
 Join Dave Neary in a discussion with former CEO of Mozilla Corporation, John
 Lilly, on how an open source project which became independent of AOL in 2003
 managed to reintroduce competition into the browser market and modernize the
 Internet, while generating hundreds of millions of dollars in revenue.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness5)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness5) --->
 
 ## Episode 6: Bootstrapping a Self-funded Open Source Company
 
 **Featured speakers:** Alison Gianotto, Roberto Galoppini  
+
+{% include youtubeplayer.html id="aznZZTQwzOk" %}
 
 One common path for open source businesses is to start with a small number of
 individual contributors, and self-fund the company. This week, Dave Neary will
@@ -93,12 +104,14 @@ a CEO role, growing a company organically and reaching profitability as
 quickly as possible, and the revenue streams that are available to projects
 in different stages of their life, and in different market segments.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness6)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness6) --->
 
 ## Episode 7: Consulting on Open Source Strategy
 
 **Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
 **Featured host:** Leslie Hawthorn  
+
+{% include youtubeplayer.html id="kVTftGHhmPI" %}
 
 Leslie Hawthorn is joined by experienced Open Source Consultants Aaron
 Williamson, James Vasile, and Sumana Harihareswara to discuss the intricacies
@@ -108,12 +121,14 @@ a consultant help improve the condition of their clients in open source? And
 in a world where so much information is out there for free, how do you ensure
 that you get paid?
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness7)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness7) --->
 
 ## Episode 8: The Reinvention of the Eclipse Foundation
 
 **Featured speaker:** Mike Milinkovich  
 **Featured host:** Stephen Walli  
+
+{% include youtubeplayer.html id="Z0rwuoVDzQ8" %}
 
 The Eclipse Project was originally released in 2001, and led to the
 creation of the Eclipse Foundation in 2004. Over the course of its
@@ -130,12 +145,14 @@ guest host Stephen Walli to discuss the historical and evolving
 role of the Eclipse Foundation, the motivations for moving to
 Europe now, and where he sees the Foundation going in the future.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness8)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness8) --->
 
 ## Episode 9: Why I won't start a company around Envoy
 
 **Featured speaker:** Matt Klein  
 **Featured host:** Matt Asay  
+
+{% include youtubeplayer.html id="sC67lAgDtQc" %}
 
 Many successful open source projects are created internally to
 solve problems for a large company. Of these successful projects,
@@ -154,11 +171,13 @@ some of the reasons why [he has chosen not to strike out on his
 own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
 and attempt to create a service mesh business around his project. 
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness9)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness9) --->
 
 ## Episode 10: Open Source Hardware
 
 **Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
+
+{% include youtubeplayer.html id="qBvEcAyTmf0" %}
 
 This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
 Gibb of the Open Source Hardware Association, and Jason Kridner,
@@ -170,7 +189,7 @@ source software plays in the economics of open hardware companies.
 This episode is our last episode of season 1! We will return with
 a second season in the Spring.
 
-[Available on demand](https://www.crowdcast.io/e/osbusiness10)
+<!--- [Available on demand](https://www.crowdcast.io/e/osbusiness10) --->
 
 # Future topics
 We are still in the process of building a world-class schedule of events for the Open Source in Business series. Topics we plan to explore include:
