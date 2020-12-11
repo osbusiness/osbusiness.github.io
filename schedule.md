@@ -38,7 +38,7 @@ building a business around products based on open source projects.
 
 **Featured speakers:** Dirk Riehle, Alyssa Wright  
 
-{% include youtubeplayer.html id="8MFaBVOfQ7c" %}
+{% include youtubeplayer.html id="-gKT55VTHBM" %}
 
 Description: Open source is changing how software is built and how money is made. Open
 source also defines a new developer career that is independent of the traditional career
