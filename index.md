@@ -11,58 +11,87 @@ The Open Source in Business webinar series intends to bridge this gap by providi
 
 Join us for interactive sessions and discussions that explore the inflection point between open source and business, and discover how success in open source business happens.
 
-## Next episode: Open Source Hardware
+<!--- TODO: Add YouTube links and figure out the best way to format this as a list --->
 
-**Time:** December 8th, 2020, 7:00pm CET/1:00pm EST/10:00am PST  
-**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
-**Host:** Dave Neary
+# Season 1: Fall 2020
 
-We are rounding out our first season of Open Source in Business
-with a discussion of a business model that depends on open source,
-but does not involve the sale of software: Open Hardware companies.
+{% include youtubeplayer.html id="videoseries?list=PLUFGT4sqMUn9fnCgAZ4BMHADAUTdJ9VXf" %}
 
-This week, Dave Neary is joined by Limor Fried of Adafruit, Alicia
-Gibb of the Open Source Hardware Association, and Jason Kridner,
-co-founder of the BeagleBoard.org project. We will discuss the
-role that open source software development has played in enabling
-an open hardware community to develop, and the role that open
-source software plays in the economics of open hardware companies. 
+## Episode 1: The Delicate Art of Open Source Product Management
+**Featured speakers:** Adam Jacob, Scott McCarty  
 
-This episode is our last episode of season 1! We will return with
-a second season in the Spring.
+Adam Jacob and Scott McCarty join host Dave Neary to talk over the finer points of
+product management when building commercial products with open source dependencies.
 
-[Register here](https://www.crowdcast.io/e/osbusiness10)
+## Episode 2: Open Source and Convenience in the Era of Software as a Service
+**Featured speaker:** Stephen O'Grady  
 
-## Watch our last episode on demand: Why I won't start a company around Envoy
+Host Dave Neary talks to industry analyst Stephen O'Grady about how open source software
+vendors can compete effectively against large cloud vendors who offer their projects as
+a hosted service.
 
-**Time:** December 1st, 2020, 8:30pm CET/2:30pm EST/11:30am PST  
+## Episode 3: The Labor Economics of Open Source
+**Featured speakers:** Dirk Riehle, Alyssa Wright  
+
+Professor Dirk Riehle and Alyssa Wright of Open Collective talk through some of the labor
+market implications of open source - how to get a job working on open source, and how to
+make a living wage working on an open source project you created.
+
+## Episode 4: The Evolution of Open Source Non-Profits
+**Featured speakers:** Karen Sandler, Myrle Krantz  
+**Featured host:** Stephen Walli  
+
+Guest host Stephen Walli examines the evolution in the role that open source non-profits
+have played in the curation of community projects over the past 20 years with Myrle Kranz
+of the Apache Foundation and Karen Sandler, Executive Director of the Software Freedom
+Conservancy.
+
+## Episode 5: How Mozilla Changed the Internet
+**Featured speaker:** John Lilly  
+
+Former CEO of Mozilla Corporation John Lilly joins host Dave Neary to revisit the early
+success of the Mozilla Corporation in bringing open source to the mass market consumer,
+and in revitalizing the Internet at a time when very little innovation was happening.
+
+## Episode 6: Bootstrapping a Self-funded Open Source Company
+**Featured speakers:** Alison Gianotto, Roberto Galoppini  
+
+Alison Gianotto, CEO and Founder of Grokability, and Roberto Galoppini, Director of Business
+Strategy for Filezilla, explore the ways they have organically grown their self-funded,
+bootstrapped companies based on successful open source projects.
+
+## Episode 7: Consulting on Open Source Strategy
+**Featured speakers:** Sumana Harihareswara, Aaron Williamson, James Vasile  
+**Featured host:** Leslie Hawthorn  
+
+Guest host Leslie Hawthorn talks to three experienced open source strategy consultants, 
+Sumana Harihareswara, Aaron Williamson, and James Vasile, on how they help large companies
+adopt and adapt to open source software development.
+
+## Episode 8: The Reinvention of the Eclipse Foundation
+**Featured speaker:** Mike Milinkovich  
+**Featured host:** Stephen Walli  
+
+The Executive Director of the Eclipse Foundation, Mike Milinkovich, chats to guest host
+Stephen Walli, about the evolution of the Eclipse Foundation from its creation 15 years
+ago as the steward of the Eclipse IDE and platform, through the emergence of IOT and a
+broader Java ecosystem underthe Foundation umbrella, to its recently announced move to
+Europe.
+
+## Episode 9: Why I won't start a company around Envoy
 **Featured speaker:** Matt Klein  
 **Featured host:** Matt Asay  
 
-We are taking a week off for US Thanksgiving, and returning on
-December 1st with Matt Asay interviewing Matt Klein about his
-decision *not* to create a company around his very successful
-and popular project, Envoy.
+Guest host Matt Asay joins regular host Dave Neary to talk to Matt Klein, the creator of
+the Envoy project, about his conscious decision **not** to start a company around the
+project when it became popular, and to instead maintain its vendor independence.
 
-Many successful open source projects are created internally to
-solve problems for a large company. Of these successful projects,
-several project founders decide to start companies around the
-commercialization of the project. But there are also project
-founders who consciously decide not to go that route. 
+## Episode 10: Open Source Hardware
+**Featured speakers:** Alicia Gibb, Limor Fried, Jason Kridner  
 
-Matt Klein, a software engineer with Lyft, wrote Envoy to scratch
-a proverbial itch, to solve some of the problems of running
-scalable distributed applications. After the project was open
-sourced in 2016, it has had huge influence and traction,
-including being adopted by the service mesh platform Istio.
-
-In this episode, Matt will chat with guest host Matt Asay about
-some of the reasons why [he has chosen not to strike out on his
-own](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
-and attempt to create a service mesh business around his project. 
-
-[Watch on demand here](https://www.crowdcast.io/e/osbusiness9)
-
+Alicia Gibb, the Executive Director of the Open Source Hardware Association, CEO of AdaFruit
+Limor Fried, and Jason Kridner, the co-founder of the BeagleBoard Project, join host Dave
+Neary to explain the emergence and growth of the Open Hardware ecosystem.
 
 All of our past episodes are listed on [the event schedule page](schedule.html), and 
 are also available on [our YouTube channel](https://www.youtube.com/channel/UCwBgcnITw43mboBSplHDRMQ).
