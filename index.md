@@ -15,6 +15,9 @@ Join us for interactive sessions and discussions that explore the inflection poi
 
 # Season 1: Fall 2020
 
+Find more details about our season 1 topics, and links to the individual videos, in 
+[our schedule page](schedule.html).
+
 {% include youtubeplayer.html id="videoseries?list=PLUFGT4sqMUn9fnCgAZ4BMHADAUTdJ9VXf" %}
 
 ## Episode 1: The Delicate Art of Open Source Product Management
