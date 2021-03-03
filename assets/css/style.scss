@@ -26,6 +26,8 @@ $nav-text-color: #aaaaaa;
 $nav-active-color: #ffffff;
 $nav-hover-color: lighten($nav-text-color, 50%);
 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css');
+
 @import "{{ site.theme }}";
 
 #logo {
