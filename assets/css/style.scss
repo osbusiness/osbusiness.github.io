@@ -26,8 +26,8 @@ $nav-text-color: #fff6d5;
 $nav-active-color: #ffffff;
 $nav-hover-color: lighten($nav-text-color, 50%);
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Quicksand:wght@600&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Quicksand:wght@600&display=swap');
 
 @import "{{ site.theme }}";
 
