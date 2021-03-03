@@ -4,13 +4,13 @@
 
 /* Headers */
 $header-heading-color: #ffffff;
-$header-bg-color: #3d3846;
+$header-bg-color: #fff6d5;
 $header-bg-color-secondary: #2d2836;
 
 /* Text */
-$section-headings-color: #553f7e;
-$body-text-color: #606c71;
-$body-link-color: #cc8800;
+$section-headings-color: #fdf0c2;
+$body-text-color: #f9f9f9ff;
+$body-link-color: #f0cc55;
 $blockquote-text-color: #819198;
 
 /* Code */
@@ -22,11 +22,29 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
-$nav-text-color: #aaaaaa;
+$nav-text-color: #fff6d5;
 $nav-active-color: #ffffff;
 $nav-hover-color: lighten($nav-text-color, 50%);
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Quicksand:wght@600&display=swap');
+
 @import "{{ site.theme }}";
+
+body {
+    background: #221427;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-family: Quicksand;
+   text-shadow: 0 0 13px #eb1704;
+
+}
 
 #logo {
     max-width: 832px;
@@ -55,7 +73,7 @@ $a-tags-hover: 'a:active, a:hover';
 
 .wrapper {
     nav {
-        background: rgba(black, 1.0);
+        background: rgba(69,41,80, 1.0);
         ul.nav-menu {
             margin: 0;
             text-align: center;
@@ -69,6 +87,7 @@ $a-tags-hover: 'a:active, a:hover';
                 #{$a-tags} {
                     color: $nav-text-color;
                     text-decoration: none;
+		    text-transform: uppercase;
                 }
                 #{$a-tags-hover} {
                     color: $nav-hover-color;
@@ -93,8 +112,7 @@ footer {
 	color: lighten($body-link-color, 50%);
     }
     img#twitter {
-	width: 1.4em;
-	vertical-align: top;
-	margin: 0 0.2em 0 0.2em;
+	width: 2.9em;
+	vertical-align: middle;
     }
 }
