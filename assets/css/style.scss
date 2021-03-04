@@ -68,12 +68,12 @@ h6 {
   }
 }
 
-#content img {
+#content img.responsive {
     height: auto;
-    width: 100%;
+    max-width: 100%;
 }
 
-.speakerpic {
+img.speakerpic {
     float: right;
     width: 180px;
     margin: 1.65rem;
