@@ -5,7 +5,7 @@ title: Schedule
 
 # Season 2 starts March 17!
 
-The archive of [Season 1 episodes is available here](schedule.html).
+The archive of [Season 1 episodes is available here](season1.html).
 ## Episode 1: The Open Source Database Market
 
 **Featured speaker: Mårten Mickos** - Hosted by Dave Neary
