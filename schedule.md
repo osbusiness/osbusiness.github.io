@@ -8,7 +8,9 @@ title: Schedule
 The archive of [Season 1 episodes is available here](season1.html).
 ## Episode 1: The Open Source Database Market
 
-**Featured speaker: Mårten Mickos** - Hosted by Dave Neary
+**Featured speaker: Mårten Mickos** - Hosted by Dave Neary<br/>
+**Recorded:** March 17, 2021, 5pm EDT<br/>
+**[Watch video on demand now](https://www.crowdcast.io/e/open-source-database-market)** 
 
 <img src="/assets/images/mickos.png" class="speakerpic">
 
@@ -17,7 +19,10 @@ Mårten Mickos joins Dave Neary to talk about the topical subject of the open so
 
 ## Episode 2: The Business of Standards and Open Source
 
-**Featured speakers: Guy Martin and Silona Bonewald** - Hosted by Stephen Walli
+**Featured speakers: Guy Martin and Silona Bonewald** - Hosted by Stephen Walli<br/>
+**[Register now](https://www.crowdcast.io/e/standards-and-open-source)**<br/>
+**Date:** March 26, 2021, 11am EDT
+
 
 <img src="/assets/images/speaker-placeholder.png" class="speakerpic">
 
@@ -29,7 +34,9 @@ In this episode, Silona Bonewald, the Executive Director of IEEE SA Open, and Gu
 
 ## Episode 3: Drupal: A case study in ecosystem development
 
-**Featured speakers: Dries Buytaert, Heather Rocker** - Hosted by Dave Neary
+**Featured speakers: Dries Buytaert, Heather Rocker** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/drupal-case-study)**<br/>
+**Date:** March 31, 2021, 11:30am EDT
 
 <img src="/assets/images/speaker-placeholder.png" class="speakerpic">
 
@@ -45,7 +52,9 @@ With so many projects struggling with the transition from community-developed so
 
 ## Episode 4: The Transformation of an Industry: Open Source in Film
 
-**Featured speakers: Carol Payne, Netflix, and Larry Gritz, Sony** - Hosted by Dave Neary
+**Featured speakers: Carol Payne, Netflix, and Larry Gritz, Sony** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/open-source-in-film)**<br/>
+**Date:** April 7, 2021, 1:00pm EDT
 
 <img src="/assets/images/speaker-placeholder.png" class="speakerpic">
 

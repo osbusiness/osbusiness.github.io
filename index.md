@@ -9,17 +9,17 @@ title: About the Open Source Business Summit
 
 # Season 2 is starting soon!
 
-<a href="/schedule.html#episode-1-the-open-source-database-market">
-<img class="responsive" src="/assets/images/season2/the-open-source-database-market.jpeg"></a>
+<a href="https://www.crowdcast.io/e/open-source-database-market">
+<img class="responsive" src="/assets/images/season2/the-open-source-database-market.jpeg" alt="The Open Source Database Market - recorded March 17th"></a>
 
-<a href="/schedule.html#episode-2-the-the-business-of-standards-and-open-source">
-<img src="/assets/images/season2/the-business-of-standards-and-open-source.jpeg"></a>
+<a href="https://www.crowdcast.io/e/standards-and-open-source">
+<img src="/assets/images/season2/the-business-of-standards-and-open-source.jpeg" alt="The Business of Open Source and Standards - March 26th, 11am EDT"></a>
 
-<a href="/schedule.html#episode-3-drupal-a-case-study-in-ecosystem-development">
-<img src="/assets/images/season2/drupal-a-case-study-in-ecosystem-development.jpeg"></a>
+<a href="https://www.crowdcast.io/e/drupal-case-study">
+<img src="/assets/images/season2/drupal-a-case-study-in-ecosystem-development.jpeg" alt="Drupal: A case study in ecosystem development - March 31st, 11:30am EDT"></a>
 
-<a href="/schedule.html#episode-4-the-transformation-of-an-industry-open-source-in-film">
-<img src="/assets/images/season2/the-transformation-of-an-industry-open-source-in-film.jpeg"></a>
+<a href="https://www.crowdcast.io/e/open-source-in-film">
+<img src="/assets/images/season2/the-transformation-of-an-industry-open-source-in-film.jpeg" alt="The Transformation of an Industry - Open Source in Film. April 7th, 1pm EDT"></a>
 
 </div>
 <div class="col-4_md-12" markdown=1>
