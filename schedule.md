@@ -24,8 +24,9 @@ Mårten Mickos joins Dave Neary to talk about the topical subject of the open so
 **Date:** March 26, 2021, 11am EDT
 
 
-<img src="/assets/images/silona_bonewald.jpg" class="speakerpic">
 <img src="/assets/images/guy_martin_web.jpg" class="speakerpic">
+<img src="/assets/images/silona_bonewald.jpg" class="speakerpic">
+
 
 While technical standards and open source software development are both collaborative efforts involving representatives of diverse stakeholders, there have historically been significant cultural differences between open source communities and standards development organizations.
 
