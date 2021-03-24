@@ -24,7 +24,8 @@ Mårten Mickos joins Dave Neary to talk about the topical subject of the open so
 **Date:** March 26, 2021, 11am EDT
 
 
-<img src="/assets/images/speaker-placeholder.png" class="speakerpic">
+<img src="/assets/images/silona_bonewald.jpg" class="speakerpic">
+<img src="/assets/images/guy_martin_web.jpg" class="speakerpic">
 
 While technical standards and open source software development are both collaborative efforts involving representatives of diverse stakeholders, there have historically been significant cultural differences between open source communities and standards development organizations.
 
@@ -38,7 +39,8 @@ In this episode, Silona Bonewald, the Executive Director of IEEE SA Open, and Gu
 **[Register now](https://www.crowdcast.io/e/drupal-case-study)**<br/>
 **Date:** March 31, 2021, 11:30am EDT
 
-<img src="/assets/images/speaker-placeholder.png" class="speakerpic">
+<img src="/assets/images/dries_buytaert_small.jpg" class="speakerpic">
+<img src="/assets/images/Heather_Rocker_web.jpg" class="speakerpic">
 
 Since being launched by Dries Buytaert from his college dorm, Drupal has become a massively successful open source content management platform, with an international ecosystem of commercial entities who benefit from, and contribute to the maintenance of, the shared platform.
 
@@ -56,7 +58,8 @@ With so many projects struggling with the transition from community-developed so
 **[Register now](https://www.crowdcast.io/e/open-source-in-film)**<br/>
 **Date:** April 7, 2021, 1:00pm EDT
 
-<img src="/assets/images/speaker-placeholder.png" class="speakerpic">
+<img src="/assets/images/carol_payne.jpg" class="speakerpic">
+<img src="/assets/images/larry_gritz.jpg" class="speakerpic">
 
 Twenty years ago, studios working on Hollywood movies and other media developed much of their tooling in-house, or purchased proprietary off-the-shelf software. In recent years, however, studios are increasingly collaborating on open source libraries and tools for common needs, launching the Academy Software Foundation in 2018. Today, the media production industry working together on dozens of open source projects for applications including colour management, timeline editing, document interchange, rendering, and compositing.
 
