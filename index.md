@@ -9,7 +9,7 @@ title: About the Open Source Business Summit
 
 # Season 2 is in full swing!
 <a href="https://www.crowdcast.io/e/drupal-case-study">
-<img src="/assets/images/season2/drupal-a-case-study-in-ecosystem-development.png" alt="Drupal: A case study in ecosystem development - March 31st, 11:30am EDT"></a>
+<img src="/assets/images/season2/drupal-a-case-study-in-ecosystem-development.jpeg" alt="Drupal: A case study in ecosystem development - March 31st, 11:30am EDT"></a>
 
 <a href="https://www.crowdcast.io/e/open-source-in-film">
 <img src="/assets/images/season2/the-transformation-of-an-industry-open-source-in-film.jpeg" alt="The Transformation of an Industry - Open Source in Film. April 7th, 1pm EDT"></a>
