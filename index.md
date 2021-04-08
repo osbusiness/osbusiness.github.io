@@ -20,17 +20,20 @@ alt="Venture Capital and Open Source. April 14th, 12am EDT">
 
 # Catch up on past episodes
 
-##Episode 1: The Open Source Database Market
+## Episode 1: The Open Source Database Market
+
 Featuring Marten Mickos
 
 {% include youtubeplayer.html id="Mr-YM2pNKJ4" %}
 
-##Episode 2: The Business of Standards and Open Source
+## Episode 2: The Business of Standards and Open Source
+
 Featuring Silona Bonewald and Guy Martin, hosted by Stephen Walli
 
 {% include youtubeplayer.html id="x-akWlw6AOo" %}
 
-##Episode 3: Drupal: A case-study in ecosystem development
+## Episode 3: Drupal: A case-study in ecosystem development
+
 Featuring Dries Buytaert and Heather Rocker
 
 {% include youtubeplayer.html id="Fb_3LyYRITY" %}
@@ -43,7 +46,10 @@ Featuring Dries Buytaert and Heather Rocker
 
 Here is a short compilation from the first season of Open Source in Business.
 
+{% include youtubeplayer.html id="Pojt3FLDVL0" %}
+
 {% include youtubeplayer.html id="PlZjdhA00U0" %}
+
 
 ### Archive of Season 1
 
