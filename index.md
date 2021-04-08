@@ -8,8 +8,11 @@ title: About the Open Source Business Summit
 <div class="col-8_md-12" markdown=1>
 
 # Season 2 is in full swing!
-<a href="https://www.crowdcast.io/e/drupal-case-study">
-<img src="/assets/images/season2/drupal-a-case-study-in-ecosystem-development.jpeg" alt="Drupal: A case study in ecosystem development - March 31st, 11:30am EDT"></a>
+
+<a href="https://www.crowdcast.io/e/venture-capital-and-open-source">
+<img src="/assets/images/season2/venture-capital-and-open-source-tile.png"
+alt="Venture Capital and Open Source. April 14th, 12am EDT">
+</a>
 
 <a href="https://www.crowdcast.io/e/open-source-in-film">
 <img src="/assets/images/season2/the-transformation-of-an-industry-open-source-in-film.jpeg" alt="The Transformation of an Industry - Open Source in Film. April 7th, 1pm EDT"></a>
@@ -17,12 +20,23 @@ title: About the Open Source Business Summit
 
 # Catch up on past episodes
 
+##Episode 1: The Open Source Database Market
+Featuring Marten Mickos
+
 {% include youtubeplayer.html id="Mr-YM2pNKJ4" %}
+
+##Episode 2: The Business of Standards and Open Source
+Featuring Silona Bonewald and Guy Martin, hosted by Stephen Walli
 
 {% include youtubeplayer.html id="x-akWlw6AOo" %}
 
+##Episode 3: Drupal: A case-study in ecosystem development
+Featuring Dries Buytaert and Heather Rocker
+
+{% include youtubeplayer.html id="Fb_3LyYRITY" %}
 
 </div>
+
 <div class="col-4_md-12" markdown=1>
 
 ## Highlights from Season 1

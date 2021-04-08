@@ -64,5 +64,23 @@ With so many projects struggling with the transition from community-developed so
 
 Twenty years ago, studios working on Hollywood movies and other media developed much of their tooling in-house, or purchased proprietary off-the-shelf software. In recent years, however, studios are increasingly collaborating on open source libraries and tools for common needs, launching the Academy Software Foundation in 2018. Today, the media production industry working together on dozens of open source projects for applications including colour management, timeline editing, document interchange, rendering, and compositing.
 
-For this episode, Carol Payne of Netflix and Larry Gritz of Sony Pictures Imageworks join us to discuss the technical and cultural changes that have led the media industry to embrace open source software in recent years, to discuss the role that open source plays today in media production, and the technological challenges facing the industry for the future. "
+For this episode, Carol Payne of Netflix and Larry Gritz of Sony Pictures Imageworks join us to discuss the technical and cultural changes that have led the media industry to embrace open source software in recent years, to discuss the role that open source plays today in media production, and the technological challenges facing the industry for the future.
+
+## Episode 5: Venture Capital and Open Source
+
+**Featured speakers: Astasia Myers, Redpoint Ventures, and Imran Ghory, Blossom Capital**
+- Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/venture-capital-and-open-source)**<br/>
+**Date:** April 14, 2021, 12:00 noon EDT
+
+The role of venture capital in scaling young companies is critical. It provides
+resources to hire people, scale sales and marketing efforts to reach new audiences,
+and to provide runway for future development plans.  However, the constraints
+involved in meeting the expectations of a high  valuation can sometimes lead to
+uncomfortable tension between project  early adopters and the growth of a company.
+
+In this episode, Astasia Myers of Redpoint Ventures and Imran Ghory of Blossom
+Capital will discuss what makes an attractive investment  opportunity in an open
+source company, what measures are important for  valuation and growth, and the
+importance of open source in early growth  and finding the right business model.
 
