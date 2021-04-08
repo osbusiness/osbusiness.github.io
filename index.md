@@ -10,7 +10,7 @@ title: About the Open Source Business Summit
 # Season 2 is in full swing!
 
 <a href="https://www.crowdcast.io/e/venture-capital-and-open-source">
-<img src="/assets/images/season2/venture-capital-and-open-source-tile.png"
+<img src="/assets/images/season2/venture-capital-and-open-source.png"
 alt="Venture Capital and Open Source. April 14th, 12am EDT">
 </a>
 
