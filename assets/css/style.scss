@@ -27,7 +27,7 @@ $nav-active-color: #ffffff;
 $nav-hover-color: lighten($nav-text-color, 50%);
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;700;900&family=Red+Hat+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Quicksand:wght@600&display=swap');
 
 @import "{{ site.theme }}";
 
@@ -44,7 +44,7 @@ $nav-hover-color: lighten($nav-text-color, 50%);
 
 body {
     background: #221427;
-    font-family: 'Red Hat Text', sans-serif;
+    font-family: Lato, sans-serif;
 }
 
 h1,
@@ -53,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-   font-family: 'Red Hat Display';
+   font-family: Quicksand;
    text-shadow: 0 0 13px #eb1704;
 
 }
