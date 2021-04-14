@@ -14,8 +14,11 @@ title: About the Open Source Business Summit
 alt="Venture Capital and Open Source. April 14th, 12am EDT">
 </a>
 
-<a href="https://www.crowdcast.io/e/open-source-in-film">
-<img src="/assets/images/season2/the-transformation-of-an-industry-open-source-in-film.jpeg" alt="The Transformation of an Industry - Open Source in Film. April 7th, 1pm EDT"></a>
+<a href="https://www.crowdcast.io/e/role-of-ospos">
+<img src="/assets/images/season2/role-of-ospos-tile.png" alt="The Role of Open Source Program Offices Outside the Software Industry. April 21st, 11am EDT"></a>
+
+<a href="https://www.crowdcast.io/e/innersource">
+<img src="/assets/images/season2/innersource-culture-change-tile.png" alt="How Innersource can accelerate culture change. April 28th, 9am EDT"></a>
 
 
 # Catch up on past episodes
@@ -37,6 +40,13 @@ Featuring Silona Bonewald and Guy Martin, hosted by Stephen Walli
 Featuring Dries Buytaert and Heather Rocker
 
 {% include youtubeplayer.html id="Fb_3LyYRITY" %}
+
+## Episode 4: The Transformation of an Industry - Open Source in Film
+
+Featuring Carol Payne and Larry Gritz
+
+{% include youtubeplayer.html id="DDfD3uvsjtA" %}
+
 
 </div>
 
