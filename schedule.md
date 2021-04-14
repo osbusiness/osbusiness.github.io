@@ -68,8 +68,7 @@ For this episode, Carol Payne of Netflix and Larry Gritz of Sony Pictures Imagew
 
 ## Episode 5: Venture Capital and Open Source
 
-**Featured speakers: Astasia Myers, Redpoint Ventures, and Imran Ghory, Blossom Capital**
-- Hosted by Dave Neary<br/>
+**Featured speakers: Astasia Myers, Redpoint Ventures, and Imran Ghory, Blossom Capital** - Hosted by Dave Neary<br/>
 **[Register now](https://www.crowdcast.io/e/venture-capital-and-open-source)**<br/>
 **Date:** April 14, 2021, 12:00 noon EDT
 
@@ -86,8 +85,7 @@ importance of open source in early growth  and finding the right business model.
 
 ## Episode 6: The Role of Open Source Program Offices Outside the Software Industry
 
-**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank**
-- Hosted by Dave Neary <br/>
+**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank** - Hosted by Dave Neary <br/>
 **[Register now](https://www.crowdcast.io/e/role-of-ospos)**<br/>
 **Date:** April 21, 2021, 11:00 am EDT
 
@@ -114,8 +112,7 @@ companies interested in starting an OSPO of their own.
 
 ## Episode 7: How Innersource can accelerate culture change
 
-**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace**
-- Hosted by Leslie Hawthorn
+**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
 **[Register now](https://www.crowdcast.io/e/innersource)**<br/>
 **Date:** April 28, 2021, 9:00 am EDT
 
