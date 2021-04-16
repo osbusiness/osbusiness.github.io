@@ -3,9 +3,57 @@ layout: default
 title: Schedule
 ---
 
-# Season 2 starts March 17!
+# Season 2 Schedule
 
 The archive of [Season 1 episodes is available here](season1.html).
+
+# Upcoming episodes
+
+## Episode 6: The Role of Open Source Program Offices Outside the Software Industry
+
+**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank** - Hosted by Dave Neary <br/>
+**[Register now](https://www.crowdcast.io/e/role-of-ospos)**<br/>
+**Date:** April 21, 2021, 11:00 am EDT
+
+In recent years, more and more companies have been creating an Open Source Program
+Office (OSPO) in industries far outside the traditional software sector. Banks,
+insurance companies, telecommunications companies, oil and gas companies, and others
+have created this function to guide the evolution of how software is produced and
+consumed by these companies.
+
+In this episode, Dave Neary will be joined by Nithya Ruff, Executive Director of
+the Open Source Program Office of Comcast and chair of the board of the Linux
+Foundation, and Gil Yehuda, Head of Open Source Engineering and Technology at U.S.
+Bank, to discuss the pivotal role that Open Source Program Offices have played in
+evolving attitudes to the risks of consuming open source software and enabling their
+engineers to develop and contribute to open source projects.
+
+We will talk about the key stakeholders for an OSPO in a large company, and whether
+they have faced similar challenges in helping their companies evolve over the years.
+We will discuss the differences between traditional open source technology
+companies and working in an industry where technology is an enabler of customer
+value, rather than the primary driver of revenue. Finally, we will discuss where we
+see open source developing in the future, and some resources that are available to
+companies interested in starting an OSPO of their own.
+
+## Episode 7: How Innersource can accelerate culture change
+
+**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
+**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
+**Date:** April 28, 2021, 9:00 am EDT
+
+The term "InnerSource" was coined over twenty years ago to describe the practice of
+adopting open source principles and methods inside organizations. The goals of
+InnerSource are to encourage the breaking down of organizational siloes and to
+improve communication and cooperation within a company.
+
+In this episode, Leslie Hawthorn will host Danese Cooper of NearForm and Isabel
+Drost-Fromm of Europace to discuss the benefits of InnerSource as a way to
+accelerate culture change, and to encourage adoption of open tools, standards, and
+best practices in software development in large organizations.
+
+# Past episodes
+
 ## Episode 1: The Open Source Database Market
 
 **Featured speaker: Mårten Mickos** - Hosted by Dave Neary<br/>
@@ -83,46 +131,4 @@ Capital will discuss what makes an attractive investment  opportunity in an open
 source company, what measures are important for  valuation and growth, and the
 importance of open source in early growth  and finding the right business model.
 
-## Episode 6: The Role of Open Source Program Offices Outside the Software Industry
-
-**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank** - Hosted by Dave Neary <br/>
-**[Register now](https://www.crowdcast.io/e/role-of-ospos)**<br/>
-**Date:** April 21, 2021, 11:00 am EDT
-
-In recent years, more and more companies have been creating an Open Source Program
-Office (OSPO) in industries far outside the traditional software sector. Banks,
-insurance companies, telecommunications companies, oil and gas companies, and others
-have created this function to guide the evolution of how software is produced and
-consumed by these companies.
-
-In this episode, Dave Neary will be joined by Nithya Ruff, Executive Director of
-the Open Source Program Office of Comcast and chair of the board of the Linux
-Foundation, and Gil Yehuda, Head of Open Source Engineering and Technology at U.S.
-Bank, to discuss the pivotal role that Open Source Program Offices have played in
-evolving attitudes to the risks of consuming open source software and enabling their
-engineers to develop and contribute to open source projects.
-
-We will talk about the key stakeholders for an OSPO in a large company, and whether
-they have faced similar challenges in helping their companies evolve over the years.
-We will discuss the differences between traditional open source technology
-companies and working in an industry where technology is an enabler of customer
-value, rather than the primary driver of revenue. Finally, we will discuss where we
-see open source developing in the future, and some resources that are available to
-companies interested in starting an OSPO of their own.
-
-## Episode 7: How Innersource can accelerate culture change
-
-**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
-**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
-**Date:** April 28, 2021, 9:00 am EDT
-
-The term "InnerSource" was coined over twenty years ago to describe the practice of
-adopting open source principles and methods inside organizations. The goals of
-InnerSource are to encourage the breaking down of organizational siloes and to
-improve communication and cooperation within a company.
-
-In this episode, Leslie Hawthorn will host Danese Cooper of NearForm and Isabel
-Drost-Fromm of Europace to discuss the benefits of InnerSource as a way to
-accelerate culture change, and to encourage adoption of open tools, standards, and
-best practices in software development in large organizations.
 
