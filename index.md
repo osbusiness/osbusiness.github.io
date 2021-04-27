@@ -9,15 +9,29 @@ title: About the Open Source Business Summit
 
 # Register to attend our upcoming sessions live! 
 
-## Episode 6: The Role of OSPOs
-
-<a href="https://www.crowdcast.io/e/role-of-ospos">
-<img src="/assets/images/season2/role-of-ospos-tile.png" alt="The Role of Open Source Program Offices Outside the Software Industry. April 21st, 11am EDT"></a>
-
-Nithya Ruff of Comcast and Gil Yehuda of U.S. Bank join Dave Neary to share how Open Source
-Program Offices can help large companies get the most out of open source software.
-
 ## Episode 7: How Innersource can accelerate culture change
+
+<a href="https://www.crowdcast.io/e/innersource">
+<img src="/assets/images/season2/innersource-culture-change-tile.png" alt="How Innersource can accelerate culture change. April 28th, 9am EDT"></a>
+
+Danese Cooper and Isabel Drost-Fromm of the Innersource Commons discuss the benefits of
+Innersource to drive culture change and adopt open source best practices with Leslie Hawthorn.
+
+**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
+**Date:** April 28, 2021, 9:00 am EDT
+
+## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+
+<a href="https://www.crowdcast.io/e/sakai-case-study">
+<img src="/assets/images/season2/sakai-case-study-tile.png" alt="How do you balance user and vendor interests? The Sakai Case Study, May 5th, 11am EDT"></a>
+
+Dr. Charles Severance, co-founder of the Sakai project, and former executive director of the
+Sakai Foundation, joins Dave Neary to discuss the early days of the project, and managing the
+tension between user and vendor interests.
+
+**[Register now](https://www.crowdcast.io/e/sakai-case-study)**<br/>
+**Date:** March 5, 2021, 11:00 am EDT
+
 
 <a href="https://www.crowdcast.io/e/innersource">
 <img src="/assets/images/season2/innersource-culture-change-tile.png" alt="How Innersource can accelerate culture change. April 28th, 9am EDT"></a>
@@ -56,6 +70,12 @@ Featuring Carol Payne and Larry Gritz
 Featuring Astasia Myers, Redpoint Ventures
 
 {% include youtubeplayer.html id="_ffr7JErwhw" %}
+
+## Episode 6: The Role of OSPOs
+
+Featuring Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank
+
+{% include youtubeplayer.html id="lYjVwzd7Xrs" %}
 
 </div>
 

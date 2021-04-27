@@ -9,33 +9,6 @@ The archive of [Season 1 episodes is available here](season1.html).
 
 # Upcoming episodes
 
-## Episode 6: The Role of Open Source Program Offices Outside the Software Industry
-
-**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank** - Hosted by Dave Neary <br/>
-**[Register now](https://www.crowdcast.io/e/role-of-ospos)**<br/>
-**Date:** April 21, 2021, 11:00 am EDT
-
-In recent years, more and more companies have been creating an Open Source Program
-Office (OSPO) in industries far outside the traditional software sector. Banks,
-insurance companies, telecommunications companies, oil and gas companies, and others
-have created this function to guide the evolution of how software is produced and
-consumed by these companies.
-
-In this episode, Dave Neary will be joined by Nithya Ruff, Executive Director of
-the Open Source Program Office of Comcast and chair of the board of the Linux
-Foundation, and Gil Yehuda, Head of Open Source Engineering and Technology at U.S.
-Bank, to discuss the pivotal role that Open Source Program Offices have played in
-evolving attitudes to the risks of consuming open source software and enabling their
-engineers to develop and contribute to open source projects.
-
-We will talk about the key stakeholders for an OSPO in a large company, and whether
-they have faced similar challenges in helping their companies evolve over the years.
-We will discuss the differences between traditional open source technology
-companies and working in an industry where technology is an enabler of customer
-value, rather than the primary driver of revenue. Finally, we will discuss where we
-see open source developing in the future, and some resources that are available to
-companies interested in starting an OSPO of their own.
-
 ## Episode 7: How Innersource can accelerate culture change
 
 **Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
@@ -51,6 +24,28 @@ In this episode, Leslie Hawthorn will host Danese Cooper of NearForm and Isabel
 Drost-Fromm of Europace to discuss the benefits of InnerSource as a way to
 accelerate culture change, and to encourage adoption of open tools, standards, and
 best practices in software development in large organizations.
+
+## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+
+**Featured speaker: Dr. Charles Severance, University of Michigan** - Hosted by Dave Neary <br/>
+**[Register now](https://www.crowdcast.io/e/sakai-case-study)**<br/>
+**Date:** March 5, 2021, 11:00 am EDT
+
+The Sakai project was created in 2004 by a group of universities who collaborated to create an open
+source learning management system. By 2006, there was a clear need for an entity to coordinate the
+community working on Sakai, and the Sakai Foundation was born. Our guest this week, Dr. Charles
+Severance, became the founding Executive Director of the Foundation, having worked on the project
+as Chief Architect since its creation.
+
+Affectionately known as Dr. Chuck, he led the Foundation through those heady early days of growth,
+competing with large, proprietary incumbents. He documented his experiences running the project and
+the Foundation in his book, [Sakai: Building an Open Source Community](http://www.dr-chuck.com/sakai-book/).
+
+In this episode, we will explore the difficulties around the commercialization of projects which
+are created by users of the software without the resources or ability to provide support and
+services for the project. We will revisit the early days of Sakai, the differing interests that
+come into play when structuring a commercial market around a project, and the lessons that can be
+learned from Dr. Chuck's experience with Sakai.
 
 # Past episodes
 
@@ -130,5 +125,32 @@ In this episode, Astasia Myers of Redpoint Ventures and Imran Ghory of Blossom
 Capital will discuss what makes an attractive investment  opportunity in an open
 source company, what measures are important for  valuation and growth, and the
 importance of open source in early growth  and finding the right business model.
+
+## Episode 6: The Role of Open Source Program Offices Outside the Software Industry
+
+**Featured speakers: Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank** - Hosted by Dave Neary <br/>
+**[Register now](https://www.crowdcast.io/e/role-of-ospos)**<br/>
+**Date:** April 21, 2021, 11:00 am EDT
+
+In recent years, more and more companies have been creating an Open Source Program
+Office (OSPO) in industries far outside the traditional software sector. Banks,
+insurance companies, telecommunications companies, oil and gas companies, and others
+have created this function to guide the evolution of how software is produced and
+consumed by these companies.
+
+In this episode, Dave Neary will be joined by Nithya Ruff, Executive Director of
+the Open Source Program Office of Comcast and chair of the board of the Linux
+Foundation, and Gil Yehuda, Head of Open Source Engineering and Technology at U.S.
+Bank, to discuss the pivotal role that Open Source Program Offices have played in
+evolving attitudes to the risks of consuming open source software and enabling their
+engineers to develop and contribute to open source projects.
+
+We will talk about the key stakeholders for an OSPO in a large company, and whether
+they have faced similar challenges in helping their companies evolve over the years.
+We will discuss the differences between traditional open source technology
+companies and working in an industry where technology is an enabler of customer
+value, rather than the primary driver of revenue. Finally, we will discuss where we
+see open source developing in the future, and some resources that are available to
+companies interested in starting an OSPO of their own.
 
 
