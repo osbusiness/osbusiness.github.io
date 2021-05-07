@@ -9,43 +9,50 @@ The archive of [Season 1 episodes is available here](season1.html).
 
 # Upcoming episodes
 
-## Episode 7: How Innersource can accelerate culture change
+## Episode 9: Is Open Source a Business Model?
 
-**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
-**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
-**Date:** April 28, 2021, 9:00 am EDT
+**Featured speakers: Stephen Walli, Microsoft, Jeff Borek, IBM** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/open-source-business-models)**<br/>
+**Date:** May 12, 2021, 11:00 am EDT
 
-The term "InnerSource" was coined over twenty years ago to describe the practice of
-adopting open source principles and methods inside organizations. The goals of
-InnerSource are to encourage the breaking down of organizational siloes and to
-improve communication and cooperation within a company.
+If you search the internet for "open source business models", there are literally millions
+of results describing successful business models. But what is a business model, and how does
+open source play into the design of one? Is it possible to reduce open source to simply a way
+of developing software, and consider the business model of a company as completely unrelated to it?
 
-In this episode, Leslie Hawthorn will host Danese Cooper of NearForm and Isabel
-Drost-Fromm of Europace to discuss the benefits of InnerSource as a way to
-accelerate culture change, and to encourage adoption of open tools, standards, and
-best practices in software development in large organizations.
+This week, Dave Neary is joined by Jeff Borek, Program Director for Open Technology and Digital
+Advocacy at IBM, and Stephen Walli, Principal Program Manager in the Azure Office of the CTO at
+Microsoft, to bring to bear on these questions their many years of experience working with in
+business development at companies who have made money selling open source software. Jeff and
+Stephen have collaborated numerous times on a debate around the interaction of Open Source and
+business models. This time, we will dig deeper into the nuances of creating a business offering
+that makes sense around an open source project.
 
-## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
 
-**Featured speaker: Dr. Charles Severance, University of Michigan** - Hosted by Dave Neary <br/>
-**[Register now](https://www.crowdcast.io/e/sakai-case-study)**<br/>
-**Date:** March 5, 2021, 11:00 am EDT
+**Featured speakers: Pia Mancini, OpenCollective, Luis Villa, TideLift** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/open-source-sustainability)**<br/>
+**Date:** May 19, 2021, 11:00 am EDT
 
-The Sakai project was created in 2004 by a group of universities who collaborated to create an open
-source learning management system. By 2006, there was a clear need for an entity to coordinate the
-community working on Sakai, and the Sakai Foundation was born. Our guest this week, Dr. Charles
-Severance, became the founding Executive Director of the Foundation, having worked on the project
-as Chief Architect since its creation.
+An [xkcd comic strip last year](https://xkcd.com/2347/) suggested that "all modern digital
+infrastructure" might depend on "a project some random person in Nebraska has been thanklessly
+maintaining since 2003". Five years ago, Nadia Eghbal released "Roads and Bridges: The unseen
+labor behind our digital infrastructure", documenting the sustainability struggles that many
+open source infrastructure projects have shared. This paper sparked a long-overdue discussion
+around volunteer labour in critical open source dependencies that, individually, did not have
+an obvious economic model to fund the developers working, often full-time, to maintain them.
+In a modern application stack, developers depend on a base platform which may be commercially
+supported, and an array of system libraries, application frameworks, and developer tools which
+often are not. On top of this, they take responsibility for their application code, which makes
+up perhaps 5 to 10% of the total. Are they aware of which libraries are developed by volunteers
+on the verge of burn-out, or by developers barely eking out a living?
 
-Affectionately known as Dr. Chuck, he led the Foundation through those heady early days of growth,
-competing with large, proprietary incumbents. He documented his experiences running the project and
-the Foundation in his book, [Sakai: Building an Open Source Community](http://www.dr-chuck.com/sakai-book/).
-
-In this episode, we will explore the difficulties around the commercialization of projects which
-are created by users of the software without the resources or ability to provide support and
-services for the project. We will revisit the early days of Sakai, the differing interests that
-come into play when structuring a commercial market around a project, and the lessons that can be
-learned from Dr. Chuck's experience with Sakai.
+In this episode, Pia Mancini, co-founder and CEO of [OpenCollective](https://opencollective.com/),
+and Luis Villa, co-founder and General Counsel of [TideLift](https://tidelift.com/), join Dave Neary
+to discuss this topic. Both their organizations were founded with a similar goal: to provide a
+pathway to sustainable funding for open source development in critical open source projects. We will
+discuss various approaches that have been attempted in the past, and why so many of them have
+failed. We will also discuss the future, and potential ways to address this issue systemically.
 
 # Past episodes
 
@@ -153,4 +160,41 @@ value, rather than the primary driver of revenue. Finally, we will discuss where
 see open source developing in the future, and some resources that are available to
 companies interested in starting an OSPO of their own.
 
+## Episode 7: How Innersource can accelerate culture change
+
+**Featured speakers: Danese Cooper, NearForm, and Isabel Drost-Fromm, Europace** - Hosted by Leslie Hawthorn <br/>
+**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
+**Date:** April 28, 2021, 9:00 am EDT
+
+The term "InnerSource" was coined over twenty years ago to describe the practice of
+adopting open source principles and methods inside organizations. The goals of
+InnerSource are to encourage the breaking down of organizational siloes and to
+improve communication and cooperation within a company.
+
+In this episode, Leslie Hawthorn will host Danese Cooper of NearForm and Isabel
+Drost-Fromm of Europace to discuss the benefits of InnerSource as a way to
+accelerate culture change, and to encourage adoption of open tools, standards, and
+best practices in software development in large organizations.
+
+## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+
+**Featured speaker: Dr. Charles Severance, University of Michigan** - Hosted by Dave Neary <br/>
+**[Register now](https://www.crowdcast.io/e/sakai-case-study)**<br/>
+**Date:** May 5, 2021, 11:00 am EDT
+
+The Sakai project was created in 2004 by a group of universities who collaborated to create an open
+source learning management system. By 2006, there was a clear need for an entity to coordinate the
+community working on Sakai, and the Sakai Foundation was born. Our guest this week, Dr. Charles
+Severance, became the founding Executive Director of the Foundation, having worked on the project
+as Chief Architect since its creation.
+
+Affectionately known as Dr. Chuck, he led the Foundation through those heady early days of growth,
+competing with large, proprietary incumbents. He documented his experiences running the project and
+the Foundation in his book, [Sakai: Building an Open Source Community](http://www.dr-chuck.com/sakai-book/).
+
+In this episode, we will explore the difficulties around the commercialization of projects which
+are created by users of the software without the resources or ability to provide support and
+services for the project. We will revisit the early days of Sakai, the differing interests that
+come into play when structuring a commercial market around a project, and the lessons that can be
+learned from Dr. Chuck's experience with Sakai.
 

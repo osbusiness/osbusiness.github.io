@@ -9,35 +9,21 @@ title: About the Open Source Business Summit
 
 # Register to attend our upcoming sessions live! 
 
-## Episode 7: How Innersource can accelerate culture change
+## Episode 9: Is Open Source a Business Model?
 
-<a href="https://www.crowdcast.io/e/innersource">
-<img src="/assets/images/season2/innersource-culture-change-tile.png" alt="How Innersource can accelerate culture change. April 28th, 9am EDT"></a>
+<a href="https://www.crowdcast.io/e/open-source-business-models">
+<img src="/assets/images/season2/open-source-business-models-tile.png" alt="Is Open Source a Business Model? May 12th, 11am EDT"></a>
 
-Danese Cooper and Isabel Drost-Fromm of the Innersource Commons discuss the benefits of
-Innersource to drive culture change and adopt open source best practices with Leslie Hawthorn.
+Jeff Borek from IBM and Stephen Walli from Microsoft revisit their long-running debate over whether
+"open source business model" is a phrase that makes sense with Dave Neary.
 
-**[Register now](https://www.crowdcast.io/e/innersource)**<br/>
-**Date:** April 28, 2021, 9:00 am EDT
+## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
 
-## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+<a href="https://www.crowdcast.io/e/open-source-sustainability">
+<img src="/assets/images/season2/sustainability-tile.png" alt="Maintaining the Middle: How can we ensure open source is long-term sustainable? May 19th, 11am EDT"></a>
 
-<a href="https://www.crowdcast.io/e/sakai-case-study">
-<img src="/assets/images/season2/sakai-case-study-tile.png" alt="How do you balance user and vendor interests? The Sakai Case Study, May 5th, 11am EDT"></a>
-
-Dr. Charles Severance, co-founder of the Sakai project, and former executive director of the
-Sakai Foundation, joins Dave Neary to discuss the early days of the project, and managing the
-tension between user and vendor interests.
-
-**[Register now](https://www.crowdcast.io/e/sakai-case-study)**<br/>
-**Date:** March 5, 2021, 11:00 am EDT
-
-
-<a href="https://www.crowdcast.io/e/innersource">
-<img src="/assets/images/season2/innersource-culture-change-tile.png" alt="How Innersource can accelerate culture change. April 28th, 9am EDT"></a>
-
-Danese Cooper and Isabel Drost-Fromm of the Innersource Commons discuss the benefits of
-Innersource to drive culture change and adopt open source best practices with Leslie Hawthorn.
+Pia Mancini from OpenCollective and Luis Villa from TideLift will share some ideas about the 
+sustainability problem we have in the Open Source world, and how their companies are trying to help.
 
 # Catch up on past episodes
 
@@ -76,6 +62,21 @@ Featuring Astasia Myers, Redpoint Ventures
 Featuring Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank
 
 {% include youtubeplayer.html id="lYjVwzd7Xrs" %}
+
+## Episode 7: How Innersource can accelerate culture change
+
+Danese Cooper and Isabel Drost-Fromm of the Innersource Commons discuss the benefits of
+Innersource to drive culture change and adopt open source best practices with Leslie Hawthorn.
+
+{% include youtubeplayer.html id="p4DY2WB66RU" %}
+
+## Episode 8: How do you balance user and vendor interests? The Sakai Case Study
+
+Dr. Charles Severance, co-founder of the Sakai project, and former executive director of the
+Sakai Foundation, joins Dave Neary to discuss the early days of the project, and managing the
+tension between user and vendor interests.
+
+{% include youtubeplayer.html id="jSkDhmQ62xQ" %}
 
 </div>
 
