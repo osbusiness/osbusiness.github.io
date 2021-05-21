@@ -25,6 +25,16 @@ Jeff Borek from IBM and Stephen Walli from Microsoft revisit their long-running 
 Pia Mancini from OpenCollective and Luis Villa from TideLift will share some ideas about the 
 sustainability problem we have in the Open Source world, and how their companies are trying to help.
 
+## Episode 11: Ramping Up: Developing Product, Marketing, and Sales Teams in Start-ups
+
+<a href="https://www.crowdcast.io/e/ramping-up">
+<img src="/assets/images/season2/ramping-up-product-teams-tile.png" alt="Ramping up product and sales teams May 26th, 12pm EDT"></a>
+
+Experienced start-up product marketing and product management professionals Aneel Lakhani and Craig Kersiens
+join Dave Neary to explore the critical inflection point for start-ups of seeding sales, product, and marketing
+functions in your company.
+
+
 # Catch up on past episodes
 
 ## Episode 1: The Open Source Database Market
@@ -63,10 +73,10 @@ Featuring Nithya Ruff, Comcast, and Gil Yehuda, U.S. Bank
 
 {% include youtubeplayer.html id="lYjVwzd7Xrs" %}
 
-## Episode 7: How Innersource can accelerate culture change
+## Episode 7: How InnerSource can accelerate culture change
 
-Danese Cooper and Isabel Drost-Fromm of the Innersource Commons discuss the benefits of
-Innersource to drive culture change and adopt open source best practices with Leslie Hawthorn.
+Danese Cooper and Isabel Drost-Fromm of the InnerSource Commons discuss the benefits of
+InnerSource to drive culture change and adopt open source best practices with Leslie Hawthorn.
 
 {% include youtubeplayer.html id="p4DY2WB66RU" %}
 
@@ -78,10 +88,28 @@ tension between user and vendor interests.
 
 {% include youtubeplayer.html id="jSkDhmQ62xQ" %}
 
+## Episode 9: Is Open Source a Business Model?
+
+Open source experts Jeff Borek and Stephen Walli debate the long-standing question: Is 
+Open Source a way to develop software, an accelerator for its distribution, or is it also
+a key element of your business model and go-to-market plans?
+
+{% include youtubeplayer.html id="zr1NNVxe_Cg" %}
+
+## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
+
+Pia Mancini of OpenCollective and Luis Villa of TideLift join Dave Neary to discuss the 
+maintenance challenge for open source projects that are popular and critical, but whose
+developers are maintaining the software on a voluntary basis.
+
+{% include youtubeplayer.html id="tbxxNxq4BVQ" %}
+
 </div>
 
 <div class="col-4_md-12" markdown=1>
+</div>
 
+<div class="col-4_md-12" markdown=1>
 ## Newsletter
 
 Sign up to [our announcement newsletter](https://lists.osbusiness.org/admin/lists/announce.osbusiness.org/) to hear about new sessions and highlight videos!

@@ -9,50 +9,30 @@ The archive of [Season 1 episodes is available here](season1.html).
 
 # Upcoming episodes
 
-## Episode 9: Is Open Source a Business Model?
+## Episode 11: Ramping Up: Developing Product, Marketing, and Sales Teams in Start-ups
 
-**Featured speakers: Stephen Walli, Microsoft, Jeff Borek, IBM** - Hosted by Dave Neary<br/>
-**[Register now](https://www.crowdcast.io/e/open-source-business-models)**<br/>
-**Date:** May 12, 2021, 11:00 am EDT
+**Featured speakers: Aneel Lakhani, Craig Kersiens**<br/>
+**[Register now](https://www.crowdcast.io/e/ramping-up)**<br/>
+**Date:** May 26, 2021, 12pm EDT
 
-If you search the internet for "open source business models", there are literally millions
-of results describing successful business models. But what is a business model, and how does
-open source play into the design of one? Is it possible to reduce open source to simply a way
-of developing software, and consider the business model of a company as completely unrelated to it?
+In the beginning, tech start-ups tend to have small, technology-focused teams building
+something that does a specific job. As the company starts to get traction, you very
+quickly need to decide what exactly you are selling, to who, for what price. Functions
+that were non-essential at launch become very important - Product Management, Product
+Marketing, and Sales. As you grow, these functions are the primary interface points
+between your company and your current and future customers, and bootstrapping these
+functions in a company represents a delicate inflection point in your growth and
+future success.
 
-This week, Dave Neary is joined by Jeff Borek, Program Director for Open Technology and Digital
-Advocacy at IBM, and Stephen Walli, Principal Program Manager in the Azure Office of the CTO at
-Microsoft, to bring to bear on these questions their many years of experience working with in
-business development at companies who have made money selling open source software. Jeff and
-Stephen have collaborated numerous times on a debate around the interaction of Open Source and
-business models. This time, we will dig deeper into the nuances of creating a business offering
-that makes sense around an open source project.
-
-## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
-
-**Featured speakers: Pia Mancini, OpenCollective, Luis Villa, TideLift** - Hosted by Dave Neary<br/>
-**[Register now](https://www.crowdcast.io/e/open-source-sustainability)**<br/>
-**Date:** May 19, 2021, 11:00 am EDT
-
-An [xkcd comic strip last year](https://xkcd.com/2347/) suggested that "all modern digital
-infrastructure" might depend on "a project some random person in Nebraska has been thanklessly
-maintaining since 2003". Five years ago, Nadia Eghbal released "Roads and Bridges: The unseen
-labor behind our digital infrastructure", documenting the sustainability struggles that many
-open source infrastructure projects have shared. This paper sparked a long-overdue discussion
-around volunteer labour in critical open source dependencies that, individually, did not have
-an obvious economic model to fund the developers working, often full-time, to maintain them.
-In a modern application stack, developers depend on a base platform which may be commercially
-supported, and an array of system libraries, application frameworks, and developer tools which
-often are not. On top of this, they take responsibility for their application code, which makes
-up perhaps 5 to 10% of the total. Are they aware of which libraries are developed by volunteers
-on the verge of burn-out, or by developers barely eking out a living?
-
-In this episode, Pia Mancini, co-founder and CEO of [OpenCollective](https://opencollective.com/),
-and Luis Villa, co-founder and General Counsel of [TideLift](https://tidelift.com/), join Dave Neary
-to discuss this topic. Both their organizations were founded with a similar goal: to provide a
-pathway to sustainable funding for open source development in critical open source projects. We will
-discuss various approaches that have been attempted in the past, and why so many of them have
-failed. We will also discuss the future, and potential ways to address this issue systemically.
+In this episode, Aneel Lakhani, Product Marketing expert and start-up advisor, and
+Craig Kerstiens, Product lead at Crunchy Data, and formerly at Heroku and Citus Data,
+join Dave Neary to share their thoughts and experience on the main considerations to
+bear in mind for start-ups entering that phase of growth. We will discuss what the key
+elements of a business strategy are for this growth phase. How are the responsibilities
+and lines of demarcation drawn across Sales, Marketing and Product? How can you be
+successful, both from the perspective of a founder bringing in new people with specific
+skills into your company, and as a Product or Marketing professional considering a role
+as the first member of a new function in a start-up?
 
 # Past episodes
 
@@ -197,4 +177,49 @@ are created by users of the software without the resources or ability to provide
 services for the project. We will revisit the early days of Sakai, the differing interests that
 come into play when structuring a commercial market around a project, and the lessons that can be
 learned from Dr. Chuck's experience with Sakai.
+
+## Episode 9: Is Open Source a Business Model?
+
+**Featured speakers: Stephen Walli, Microsoft, Jeff Borek, IBM** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/open-source-business-models)**<br/>
+**Date:** May 12, 2021, 11:00 am EDT
+
+If you search the internet for "open source business models", there are literally millions
+of results describing successful business models. But what is a business model, and how does
+open source play into the design of one? Is it possible to reduce open source to simply a way
+of developing software, and consider the business model of a company as completely unrelated to it?
+
+This week, Dave Neary is joined by Jeff Borek, Program Director for Open Technology and Digital
+Advocacy at IBM, and Stephen Walli, Principal Program Manager in the Azure Office of the CTO at
+Microsoft, to bring to bear on these questions their many years of experience working with in
+business development at companies who have made money selling open source software. Jeff and
+Stephen have collaborated numerous times on a debate around the interaction of Open Source and
+business models. This time, we will dig deeper into the nuances of creating a business offering
+that makes sense around an open source project.
+
+## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
+
+**Featured speakers: Pia Mancini, OpenCollective, Luis Villa, TideLift** - Hosted by Dave Neary<br/>
+**[Register now](https://www.crowdcast.io/e/open-source-sustainability)**<br/>
+**Date:** May 19, 2021, 11:00 am EDT
+
+An [xkcd comic strip last year](https://xkcd.com/2347/) suggested that "all modern digital
+infrastructure" might depend on "a project some random person in Nebraska has been thanklessly
+maintaining since 2003". Five years ago, Nadia Eghbal released "Roads and Bridges: The unseen
+labor behind our digital infrastructure", documenting the sustainability struggles that many
+open source infrastructure projects have shared. This paper sparked a long-overdue discussion
+around volunteer labour in critical open source dependencies that, individually, did not have
+an obvious economic model to fund the developers working, often full-time, to maintain them.
+In a modern application stack, developers depend on a base platform which may be commercially
+supported, and an array of system libraries, application frameworks, and developer tools which
+often are not. On top of this, they take responsibility for their application code, which makes
+up perhaps 5 to 10% of the total. Are they aware of which libraries are developed by volunteers
+on the verge of burn-out, or by developers barely eking out a living?
+
+In this episode, Pia Mancini, co-founder and CEO of [OpenCollective](https://opencollective.com/),
+and Luis Villa, co-founder and General Counsel of [TideLift](https://tidelift.com/), join Dave Neary
+to discuss this topic. Both their organizations were founded with a similar goal: to provide a
+pathway to sustainable funding for open source development in critical open source projects. We will
+discuss various approaches that have been attempted in the past, and why so many of them have
+failed. We will also discuss the future, and potential ways to address this issue systemically.
 
