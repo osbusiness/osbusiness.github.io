@@ -9,22 +9,6 @@ title: About the Open Source Business Summit
 
 # Register to attend our upcoming sessions live! 
 
-## Episode 9: Is Open Source a Business Model?
-
-<a href="https://www.crowdcast.io/e/open-source-business-models">
-<img src="/assets/images/season2/open-source-business-models-tile.png" alt="Is Open Source a Business Model? May 12th, 11am EDT"></a>
-
-Jeff Borek from IBM and Stephen Walli from Microsoft revisit their long-running debate over whether
-"open source business model" is a phrase that makes sense with Dave Neary.
-
-## Episode 10: Maintaining the Middle: How can we ensure open source is long-term sustainable?
-
-<a href="https://www.crowdcast.io/e/open-source-sustainability">
-<img src="/assets/images/season2/sustainability-tile.png" alt="Maintaining the Middle: How can we ensure open source is long-term sustainable? May 19th, 11am EDT"></a>
-
-Pia Mancini from OpenCollective and Luis Villa from TideLift will share some ideas about the 
-sustainability problem we have in the Open Source world, and how their companies are trying to help.
-
 ## Episode 11: Ramping Up: Developing Product, Marketing, and Sales Teams in Start-ups
 
 <a href="https://www.crowdcast.io/e/ramping-up">
@@ -106,8 +90,6 @@ developers are maintaining the software on a voluntary basis.
 
 </div>
 
-<div class="col-4_md-12" markdown=1>
-</div>
 
 <div class="col-4_md-12" markdown=1>
 ## Newsletter
