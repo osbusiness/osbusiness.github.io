@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the Open Source Business Summit
+title: About the Open Source in Business Series
 ---
 
 <div class="grid">
